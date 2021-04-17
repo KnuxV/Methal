@@ -1,0 +1,178 @@
+<dedications>
+  <!-- dedications, epigraph and similar front matter -->
+  <play>
+    <id>34</id>
+    <dedication>
+      <p>In d'r Société de Gymnastique D'Obernai in aller Friendschaft gewidmet vum auteur</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>36</id>
+    <dedication>
+      <p>Dem Ehrenpräsidenten des Elsässichen Theaters Herrn Dr. iur. Julius Greber in Verehrung gewidmet!</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>41</id>
+    <dedication position="after-castlist">
+      <p><l>Wo es Dir gut geht</l><l>Da ist dein Vaterland.</l></p>
+      <pb />
+      <p>Meinen Eltern gewidmet</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>46</id>
+    <dedication>
+      <p>Gewidmet<lb/>meiner lieben, heimgegangenen Mutter.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>49</id>
+    <dedication>
+      <p>Herrn Ernest Heyler dankbar zugeeignet</p>
+    </dedication>
+    <epigraph>
+        <quote>
+            <lg>
+                <l>'s Elsass, unser Ländel</l>
+                <l>Dies ísch meíneídí schöen</l>
+                <l>M'r hewe's fescht am Bändel</l>
+                <l>Un loon's bygott nit gehn !</l>
+            </lg>
+            <bibl>Aug. Stöber</bibl>
+        </quote>
+    </epigraph>
+  </play>
+
+  <play>
+    <id>50</id>
+    <dedication>
+      <p>Im Andenke vun minere Mamme gewidmet.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>53</id>
+    <dedication>
+      <p>Herrn Dr. A. Kassel–Hochfelden,<lb/>
+      dem unermüdlichen Erforscher<lb/> elsässischer Sitten und Gebräuche<lb/> in freundlicher Verehrung<lb/>
+      gewidmet</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>57</id>
+    <dedication>
+      <p>Mine liewe Eltere gewidmet.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>65</id>
+    <dedication xml:lang="fre">
+      <p>A mon ami Rimbach.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>78</id>
+    <dedication>
+      <p>Miem liewe Friend<lb/>
+      Léon Hornecker<lb/>Kunstmoler<lb/>gewidmet<lb/>
+      gewidmet<lb/>Ferd. Bastian.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>83</id>
+    <dedication>
+      <p>Der<lb/>
+      „Litterarischen Tafelrunde“<lb/>
+      freundschaftlich<lb/>gewidmet.<lb/>Der Verfasser.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>85</id>
+    <dedication>
+      <p>Meinen lieben Eltern</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>89</id>
+    <dedication>
+      <p>Mym liewe Brueder<lb/>
+      Dr WALDY JOST<lb/>
+      dediziert.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>96</id>
+    <dedication>
+      <p>Miem Kamerad Fritz Metzger.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>97</id>
+    <dedication>
+      <p>Im Andenke <lb/>vun mim Brueder Charles.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>99</id>
+    <dedication>
+      <p>Mine Eltre<lb/>gewidmet.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>101</id>
+    <dedication>
+      <p>In unserm Frind<lb/>Spindler<lb/>gewidmet.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>103</id>
+    <dedication>
+      <p>In de Herre Brieder<lb/>F. un L. Dollinger<lb/>gewidmet.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>109</id>
+    <dedication xml:lang="ger">
+      <p>Gewidmet dem hochw. Herrn Professor SIG<lb/>Pfarrer<lb/>in Wettolsheim.</p>
+    </dedication>
+  </play>
+
+  <play>
+    <id>200</id>
+    <dedication pnbr="3">
+      <p rend="centered">1898 – 1937</p>
+      <p rend="centered">Im Elsässische Theater<lb/>
+      Strossburry<lb/>
+      zuem Souvenir<lb/>
+      an sin<lb/>
+      vierzigjährig<lb/>
+      Anniversaire
+      </p>
+      <p>Membres fondateurs:<lb/>
+      Dr J. Greber&#160;†, Ch. Hauss&#160;†, G. Stoskopf,<lb/>
+      Ferd. Bastian, Ad. Horsch&#160;†, Eug. Criqui père<lb/>
+      G. Maurer, J. Dietrich&#160;†, Fr. Spegt,<lb/>
+      Madame Eugénie Criqui&#160;†.
+      </p>
+      <p>Deckelzaichnung vun Oscar Schmitt, professeur de dessin.</p>
+    </dedication>
+  </play>
+
+</dedications>

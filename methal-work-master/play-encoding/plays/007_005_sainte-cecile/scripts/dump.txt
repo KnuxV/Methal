@@ -1,0 +1,4 @@
+with open(os.path.join("logs", "xmltest.xml"), mode="w", encoding="utf8") as ofh: ofh.write(re.sub("><", ">\n<", xml_str))
+
+# count x_sizes
+grep -Poh "x_size [0-9.]+" sources/*[12345][0-9].html| sed 's/x_size //g'|sed -e 's/\..*//g'|sort | uniq -c| sort -rn -k2,2 |less

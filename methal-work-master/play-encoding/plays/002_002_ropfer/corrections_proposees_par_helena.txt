@@ -1,0 +1,89 @@
+# corrections TEI proposées par Helena
+
+
+[20 h 41, 2020-01-20] HSbl: ainda que non fai falta que teñas un @corresp
+
+[20 h 45, 2020-01-20] HSbl: estás facendo unha edición semidiplomática?
+[20 h 45, 2020-01-20] Pablo Ruiz: por qué?
+[20 h 45, 2020-01-20] HSbl: <div type="act">
+        <head> 1. Aufzug. </head>
+[20 h 45, 2020-01-20] HSbl: se é semidiplomática, iso está ben (quitando os espazos)
+
+[20 h 48, 2020-01-20] Pablo Ruiz: hey pero frank no lo pone con # https://github.com/dracor-org/alsdracor/blob/master/tei/arnold-der-pfingstmontag.xml
+[20 h 48, 2020-01-20] Pablo Ruiz: one sec igual en otras obras si
+[20 h 49, 2020-01-20] HSbl: porque non cambiou o que ti fixeches
+[20 h 50, 2020-01-20] HSbl: non o eliminou,  quero dicir
+
+[20 h 51, 2020-01-20] HSbl: os <stage> de @type="delivery" non os incluiría dentro do <p>
+[20 h 51, 2020-01-20] HSbl: <sp who="#ropfer">
+          <speaker>Ropfer</speaker>
+          <p><stage>(zu Jules):</stage> Monsieur Jules, mache Sie die zwei Rezepter glich.
+        <stage>(Schaut auf die Rezepte)</stage> Es isch e Pulver un e g’kochti.</p>
+        </sp>
+[20 h 51, 2020-01-20] HSbl: <sp who="#ropfer">
+          <speaker>Ropfer</speaker>
+          <p><stage>(zu Jules):</stage> Monsieur Jules, mache Sie die zwei Rezepter glich.
+        <stage>(Schaut auf die Rezepte)</stage> Es isch e Pulver un e g’kochti.</p>
+        </sp>
+[20 h 53, 2020-01-20] HSbl: mais sabes que son os que están entre un speaker e os :
+[20 h 55, 2020-01-20] Pablo Ruiz: <sp who="#ropfer">
+          <speaker>Ropfer</speaker>
+          <stage>(zu Jules):</stage>
+          <p> Monsieur Jules, mache Sie die zwei Rezepter glich.
+        <stage>(Schaut auf die Rezepte)</stage> Es isch e Pulver un e g’kochti.</p>
+
+y deberian ir asi, entonces??
+
+[20 h 57, 2020-01-20] HSbl: tamén, revisa os <stage> que tes dentro dos parágrafos que creo que eliminar un espazo en branco sen querer entre a cadea anterior e o <stage> que a segue
+
+[21 h 02, 2020-01-20] HSbl: faltanche algúns <stage> sen codificar
+
+[21 h 02, 2020-01-20] HSbl: <p><stage>(ihren Mann abküssend):</stage> Oh, dü min liebs, guets Männel!
+        (Ropfer ist ganz perplex.)</p>
+[21 h 03, 2020-01-20] HSbl: <sp who="#jean">
+          <speaker>Jean:</speaker>
+          <p>Aufzuwarten! Wo alles liebt, kann Jean allein nicht hassen! (Umarmt
+        Marie ) Liebe Marie!</p>
+
+
+suspension dots
+n vs m dash i think they should be m dashes ...
+
+worden!<stage>(Grosses Erstaunen der Anwesenden.)</stage></p>
+
+
+---> some missing stage directions  maybe .... ^[^)]+\) and vice-versa ...
+
+
+# this is a missing stage direction
+
+OK
+        <sp who="#schmidt">
+          <speaker>Madame Schmidt:</speaker>
+          <p>Diss wär noch schoener, wenn ’r nit mit inverstande wär!
+        (Sie geht aufgeregt im Zimmer auf und ab. Plötzlich bleibt ihr Blick</p>
+        </sp>
+        <pb n="41"/>
+         <stage>auf einem an der Wand links hängenden Frauenbildnis haften. Sie stösst einen Schrei
+        aus und verrät grosse Autregung.)</stage> 
+
+OK
+this one too !!
+        <sp who="#schmidt">
+          <speaker>Madame Schmidt</speaker>
+          <p>in grosser Aufregung durch die Mitte): „Mes amis, mes
+        chers amis!“ Es g’schehn doch noch Zeiche-n-un Wunder!</p>
+        </sp>
+
+
+        <sp who="#schmidt">
+          <speaker>Madame Schmidt:</speaker>
+          <p>Zehje m’r ’ne glich d’Hüet un d’ Parrüecke-n-ab, for dass
+        ’s schneller geht. (Man zieht den Schlafenden die Hüte und die Per-</p>
+        </sp>
+        <pb n="94"/>
+         <stage>rücken ab. Marie und Jean durch die Mitte herein mit Eiskübeln.)</stage> 
+        <sp who="#marie">
+          <speaker>Marie:</speaker>
+          <p>Zu dienen! Hier ein Kübel!</p>
+        </sp>

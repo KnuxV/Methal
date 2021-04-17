@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<castList>
+    <head>PERSONE:</head>
+    <castItem corresp="#jumpfer_wachtle">
+        <role>
+            <persName>Jumpfer WACHTLE</persName>
+        </role>
+        <roleDesc></roleDesc>
+    </castItem>
+    <castItem corresp="#herr_buechfink">
+        <role>
+            <persName>Herr BÜECHFINK</persName>
+        </role>
+        <roleDesc></roleDesc>
+    </castItem>
+    <castItem corresp="#herr_lerch">
+        <role>
+            <persName>Herr LERCH</persName>
+        </role>
+        <roleDesc></roleDesc>
+    </castItem>
+</castList>
