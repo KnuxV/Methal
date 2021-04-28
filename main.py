@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 # text file extraction using the Wikipedia API
 
 # First, main link, get all the titles
-r2 = requests.get("https://als.wikipedia.org/wiki/Text:August_Lustig/A"
+r2 = requests.get("https://als.wikipedia.org/wiik/Text:August_Lustig/A"
                   "._Lustig_S%C3%A4mtliche_Werke:_Band_2")
 soup = BeautifulSoup(r2.text, "html.parser")
 

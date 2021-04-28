@@ -1,38 +1,24 @@
 import os
 from lxml import etree as ET
-from body_classes import Body, Div, Sp, Lg
+from body_classes import Body, Div, Sp
 from itertools import islice
 import re
 
 # Regex
-
-# To match the acts like == I. Uftritt. ==
 act = re.compile(r"==\s(.+)\s==")
 # For match type=characters
 several_chars = re.compile(r"::<small>\'\'\'([^,]+,[^,]+)\'\'\'</small>")
 # For match group1 = speaker and sp who=, group2= stage info
-single_char = re.compile(r"::<small>'''(?P<char>[^']+)'''\s*"
-                         r"(?P<stage>\([^)]+\))?\.*</small>")
+single_char = re.compile(r"::<small>'''([^']+)'''\s*"
+                         r"(\([^)]+\))?\.*</small>")
 # for match about stage
 stage_line = r"[:]*(\([^)]+\))"
 
 # re_line = r"[:]*([^\(<:=\[{]+)"
-# For a line of text or poem, we need 3 groups, first one checking for ":" indicating a part line,
-# 2nd one for the text, and 3rd one for stage indications
-re_line = r'(?P<part>[:]{1,3})?(?P<line>[^\(<:=\[{\)_]+)(?P<stage>\([^\)]+\))?'
-# page numbers
+re_line = r'(?P<part>[:]{2,3})?(?P<line>[^\(<:=\[{\)_]+)(?P<stage>\([^\)]+\))?'
 re_page = r"{{.+page(\d+\s\d+)\.pdf.+]]}}"
 
-re_line_w_part_and_stage = r"([:]{1,3})([^\(<:=\[{\)]+)(\([^\)]+\))?"
-
-# G'sang match
-re_song = re.compile(r"::<small>'''G'sang'''\s*"
-                     r"(?P<stage>\([^)]+\))?\.*</small>")
-# Poem related, variable true or false to know if we add <l> or <p>
-# If we match a <poem> line, we need to open <lg> too, and close it when we match </poem>
-
-
-re_poem = r'</?poem>'
+re_line_w_part_and_stage = r"([:]{2,3})([^\(<:=\[{\)]+)(\([^\)]+\))?"
 
 
 def get_files(base_dir, form):
@@ -61,7 +47,7 @@ def get_list_char(title):
 # print(get_list_char("Am_letzte_Maskebal.xml"))
 
 
-def create_body(path, startline):
+def create_body_poem(path, startline):
     """
     Create the body of the plays with are fully <poem>
     :param path: relative path of the .txt
@@ -69,9 +55,8 @@ def create_body(path, startline):
     :return:
     """
     body = Body()
-    poem_bool = False
     with open(path, 'r', encoding="utf-8") as f:
-        # skip lines according to star tine
+        # skip lines according to startine
         head = list(islice(f, startline))
 
         for index, line in enumerate(f):
@@ -82,8 +67,6 @@ def create_body(path, startline):
             match_stage_line = re.match(stage_line, line)
             match_line = re.match(re_line, line)
             match_page = re.match(re_page, line)
-            match_poem = re.match(re_poem, line)
-            match_song = re.match(re_song, line)
 
             if match_act:
                 print("act", index, line)
@@ -97,27 +80,25 @@ def create_body(path, startline):
 
             elif match_single_char:
                 # If only one scene, the div must be created with the first sp
+
+                print("SiC", index, line)
                 try:
                     sp = Sp(div.xml_div)
                 except NameError:
                     div = Div(body.xml_body)
                     div.add_type_att("scene")
                     sp = Sp(div.xml_div)
-                sp.add_speaker(match_single_char.group("char"), "#" +
-                               match_single_char.group("char").lower().replace(" ", "_"))
-                if match_single_char.group("stage"):
-                    sp.add_stage(match_single_char.group("stage"))
-
-            elif match_song:
-                sp.add_gsang()
-                if match_song.group("stage"):
-                    sp.add_stage(match_song.group("stage"))
+                sp.add_speaker(match_single_char.group(1), "#" +
+                               match_single_char.group(1).lower())
+                if match_single_char.group(2):
+                    sp.add_stage(match_single_char.group(2))
 
             elif match_stage_line:
                 print("St", index, line)
                 sp.add_stage(match_stage_line.group(1))
 
             elif match_page:
+                print("pb", index, line)
                 # For the pages, we add then the <pb> tag wherever we find it.
                 try:
                     sp.add_pb(match_page.group(1))
@@ -125,24 +106,18 @@ def create_body(path, startline):
                     try:
                         div.add_pb(match_page.group(1))
                     except NameError:
+                        print("testpb")
                         body.add_pb(match_page.group(1))
-            elif match_poem:
-                if "/" not in line:
-                    poem = Lg(div.xml_div)
-                poem_bool = not poem_bool
-
             elif match_line:
-                if poem_bool:
-                    poem.add_poem(match_line.group("line"), match_line.group("part"))
-                    if match_line.group("stage"):
-                        poem.add_stage(match_line.group("stage"))
-                else:
-                    sp.add_line(line)
+                print("line", index, line)
+                sp.add_poem(match_line.group("line"), match_line.group("part"))
+                if match_line.group("stage"):
+                    sp.add_stage(match_line.group("stage"))
 
-    print("data/body" + path[8:-3])
-    xml_path = "data/body"+path[8:-3]+"xml"
-    body.create_tree(xml_path)
+    print("data/body" + path[4:])
+    body.create_tree("data/body" + path[4:-3]+"xml")
 
 
 if __name__ == "__main__":
-    create_body("data/txt/Bi_de_Wilde.txt", 33)
+    create_body_poem("data/Am_letzte_Maskebal.txt", 15)
+    create_body_poem("data/Z'Nacht_am_Zehne.txt", 12)

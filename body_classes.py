@@ -7,6 +7,7 @@ class Body:
     Création de la structure du body
     The body tag is the root of the tree.
     """
+
     def __init__(self):
         self.xml_body = ET.Element("body")
 
@@ -29,6 +30,7 @@ class Div:
     a list of Sp class instances, (see Sp class)
 
     """
+
     def __init__(self, parent):
         self.xml_div = ET.SubElement(parent, "div")
 
@@ -90,3 +92,22 @@ class Sp:
     def add_pb(self, number):
         page_tag = ET.SubElement(self.xml_sp, "pb")
         page_tag.set("n", number)
+
+    def add_gsang(self):
+        head_tag = ET.SubElement(self.xml_sp, "head")
+        head_tag.text = "G'sang"
+
+
+class Lg:
+    def __init__(self, parent):
+        self.xml_lg = ET.SubElement(parent, "lg")
+
+    def add_poem(self, line, part=None):
+        lin = ET.SubElement(self.xml_lg, "l")
+        lin.text = line
+        if part:
+            lin.set("part", "Y")
+
+    def add_stage(self, stage):
+        stg = ET.SubElement(self.xml_lg, 'stage')
+        stg.text = stage
