@@ -85,14 +85,13 @@ def create_body(path, startline):
             match_poem = re.match(re_poem, line)
             match_song = re.match(re_song, line)
 
+            # Creating act
             if match_act:
-                print("act", index, line)
                 div = Div(body.xml_body)
                 div.add_type_att("scene")
                 div.add_head(match_act.group(1))
 
             elif match_several_chars:
-                print("SeC", index, line)
                 div.add_stage(match_several_chars.group(1), "characters")
 
             elif match_single_char:
@@ -127,15 +126,14 @@ def create_body(path, startline):
                     except NameError:
                         body.add_pb(match_page.group(1))
             elif match_poem:
-                if "/" not in line:
-                    poem = Lg(div.xml_div)
+                sp.add_lg()
                 poem_bool = not poem_bool
 
             elif match_line:
                 if poem_bool:
-                    poem.add_poem(match_line.group("line"), match_line.group("part"))
+                    sp.add_poem(match_line.group("line"), match_line.group("part"))
                     if match_line.group("stage"):
-                        poem.add_stage(match_line.group("stage"))
+                        sp.add_stage(match_line.group("stage"))
                 else:
                     sp.add_line(line)
 
@@ -145,4 +143,4 @@ def create_body(path, startline):
 
 
 if __name__ == "__main__":
-    create_body("data/txt/Bi_de_Wilde.txt", 33)
+    create_body("data/txt/D'G'sellschaftere.txt", 35)

@@ -97,6 +97,9 @@ class Sp:
         head_tag = ET.SubElement(self.xml_sp, "head")
         head_tag.text = "G'sang"
 
+    def add_lg(self):
+        lg_tag = ET.SubElement(self.xml_sp, "lg")
+
 
 class Lg:
     def __init__(self, parent):
@@ -111,3 +114,4 @@ class Lg:
     def add_stage(self, stage):
         stg = ET.SubElement(self.xml_lg, 'stage')
         stg.text = stage
+
