@@ -59,19 +59,28 @@ class Sp:
 
     def __init__(self, parent):
         # Readable version of the name of the speaker.
-        self.speaker = ""
+
         # who = hashtagged version of the name available in castList
+        self.speaker = ""
         self.who = ""
         self.stage = ""
         self.line = []
         self.xml_sp = ET.SubElement(parent, "sp")
+        self.has_lg = False
 
-    def add_speaker(self, speaker, who):
+    def add_speaker(self, speaker=None, who=None):
         self.speaker = speaker
         self.who = who
-        self.xml_sp.set("who", self.who)
-        speaker = ET.SubElement(self.xml_sp, "speaker")
-        speaker.text = self.speaker
+        self.xml_sp.set("who", who)
+        if speaker:
+            speaker_tag = ET.SubElement(self.xml_sp, "speaker")
+            speaker_tag.text = speaker
+
+    def get_speaker(self):
+        return self.speaker
+
+    def get_who(self):
+        return self.who
 
     def add_stage(self, stage):
         self.stage = stage
@@ -100,6 +109,9 @@ class Sp:
     def add_lg(self):
         lg_tag = ET.SubElement(self.xml_sp, "lg")
 
+    def change_lg(self):
+        self.has_lg = True
+
 
 class Lg:
     def __init__(self, parent):
@@ -115,3 +127,13 @@ class Lg:
         stg = ET.SubElement(self.xml_lg, 'stage')
         stg.text = stage
 
+
+class spGrp():
+    def __init__(self, parent):
+        self.xml_spGrp = ET.SubElement(parent, "spGrp")
+        self.xml_spGrp.set("type", "simultaneous")
+        self.xml_spGrp.set("rend", "braced")
+
+    def add_stage(self, stage):
+        stg = ET.SubElement(self.xml_spGrp, "stage")
+        stg.text = stage

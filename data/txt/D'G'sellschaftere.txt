@@ -184,7 +184,7 @@ Güet... ich will Dr gli geh ebbes b'sorge... doch still, ich hör glaüb rede..
 ::<small>'''Oscar.'''</small>
 Jà... 's kunnt ebber!
 
-::<small>'''Emil (àngstlig).
+::<small>'''Emil (àngstlig).'''</small>
 's isch d'Stimm vo mim Vater... (er geht geh lose an dr Thüre hinte) mi Müetter isch mit em... was wànn se jetz do ku mache, sie, wo schier nie do hintere kämme?...
 
 ::<small>'''Oscar.'''</small>
@@ -672,7 +672,7 @@ Wo Se noch mehr Angst müess ha, das isch vor de Mànner... in dàne, o mi Tocht
 ::<small>'''Oscar''' (fir sich).</small>
 Das isch jetz emol ag'nehm az'höre!
 
-Jumpfer Faste.'''</small>
+::<small>'''Jumpfer Faste.'''</small>
 Oh, wenn ich Se doch nur kännt uf dr rechte Weg z'ruckbringe,
 
 ::<small>'''G'sang''' (t'en souviens tu Marie).</small>
@@ -689,7 +689,9 @@ Noch üs dem Netz, wo do
 Dir d'Liewe spannt eso.
 </poem>
 
-(Se losst d'Hand fahre, fir sich) ich weiss nitt, was ich empfind bi dàre Person!... 's isch as wie wenn d'Angst un Freid mitnander thàte-n-in mi Herz izieh!...
+::<small>'''Jumpfer Faste.'''</small>
+(Se losst d'Hand fahre, fir sich)
+ich weiss nitt, was ich empfind bi dàre Person!... 's isch as wie wenn d'Angst un Freid mitnander thàte-n-in mi Herz izieh!...
 
 <poem>
 ::<small>'''Oscar.'''</small>
@@ -705,7 +707,8 @@ Entsage thüesch dàr Lust?
 So kumm denn an mi Brust!
 </poem>
 
-(Se umarmt 'n, stosst 'n awer glich wiederz'ruck, fir sich) wieder die gliche-n-Empfindung... ich weiss gar nitt, was ich denke soll!
+(Se umarmt 'n, stosst 'n awer glich wiederz'ruck, fir sich)
+wieder die gliche-n-Empfindung... ich weiss gar nitt, was ich denke soll!
 
 ::<small>'''Oscar.'''</small>
 Awer hingege, nitt wohr, zähl ich druf, ass Sie in nieme nit sàit vo mir, so lang as ich do bi? (er will ere d'Hand nàh).
@@ -734,10 +737,9 @@ Merci, Jumpfer Faste... Sie isch charmant... (fir sich) s' Beste wird si, ich ch
 ::<small>'''Jumpfer Faste, derno Herr Schimmel.'''</small>
 ::<small>'''Jumpfer Faste.'''</small>
 Die Aüge! un wie se das g'sàit hat « Sie isch charmant », grad as wie dr andere, dr Herr Schimmel, ich g'spir dr böse Find in alle-n-Ecke un ka nitt g'nüeg Achtung gà, ass ich mich nitt umstrike loss .. doch, wer hör i do .. (dr Herr Schimmel kunnt hinte-n-ine).
-
+small>
 ::<small>'''Herr Schimmel''' (kunnt fire).</small>
 Sie isch allei! .. desto besser .. mi Fraü isch b'schàftigt, mr hàn nit z'riskiere... awer fir sicherer z'si, kännt Se viellicht sàlle Thüre züegschpliesse (er zeigt uf d'Thüre hinte).
-
 ::<small>'''Jumpfer Faste.'''</small>
 Züegschpliesse!
 
@@ -747,8 +749,8 @@ Eh jo... fir ass uns nieme störe ka...
 ::<small>'''Jumpfer Faste''' (fir sich).</small>
 Was wird jetz uf mich warte! (se geht gehzüegschpliesse).
 
-::<small>'''G'sang''' (Guillaume Tell).</small>
 ::<small>'''Herr Schimmel.'''</small>
+::<small>'''G'sang''' (Guillaume Tell).</small>
 :::'s isch bis dohi
 ::Jetz pràchtig gsi,
 ::G'wiss, ich ha Freid do dra,

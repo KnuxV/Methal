@@ -35,36 +35,47 @@
         <sp who="#oscar.">
             <speaker>Oscar.</speaker>
             <p>Ich bi halt allewil o noch dr gliche und wird o nie changiere.</p>
-            <lg/>
             <head>G'sang</head>
             <stage>(Follichon)</stage>
-            <l part="Y">Fir was denn uf dr Erde do</l>
-            <l>Ne trürig Lewe fiehre;</l>
-            <l>So lang as 's End nitt kunnt dervo,</l>
-            <l>So will ich profetiere ...</l>
+            <lg>
+                <l>Fir was denn uf dr Erde do</l>
+                <l>Ne trürig Lewe fiehre;</l>
+                <l>So lang as 's End nitt kunnt dervo,</l>
+                <l>So will ich profetiere ...</l>
+            </lg>
         </sp>
         <sp who="#emil.">
             <speaker>Emil.</speaker>
-            <l part="Y">Un doch isch eitel nur</l>
-            <l>'s Vergniege-n-uf dr Welt!</l>
+            <lg>
+                <l>Un doch isch eitel nur</l>
+                <l>'s Vergniege-n-uf dr Welt!</l>
+            </lg>
         </sp>
         <sp who="#oscar.">
             <speaker>Oscar.</speaker>
-            <l part="Y">Ich ha mi Freid derdur</l>
-            <l>Wil's 's Lewe mir erhellt!</l>
-            <stage>(Mitnander.)</stage>
-            <l part="Y">Nur emol isch d'Jugend z' g'niesse,</l>
-            <l>Wer se losst veriwer geh,</l>
-            <l>Thüet's als bol nochher verdriesse,</l>
-            <l>Wenn vom Alter kämme d'Weh!</l>
+            <lg>
+                <l>Ich ha mi Freid derdur</l>
+                <l>Wil's 's Lewe mir erhellt!</l>
+            </lg>
+        </sp>
+        <sp who="#oscar.">
+            <speaker>NEED SECOND WHO</speaker>
+            <stage>(Mitnander)</stage>
+            <lg>
+                <l>Nur emol isch d'Jugend z' g'niesse,</l>
+                <l>Wer se losst veriwer geh,</l>
+                <l>Thüet's als bol nochher verdriesse,</l>
+                <l>Wenn vom Alter kämme d'Weh!</l>
+            </lg>
         </sp>
         <sp who="#emil.">
             <speaker>Emil.</speaker>
-            <l>Wer z'viel do thüet d'Jugend g'niesse</l>
-            <l>Un ihr nitt ka widersteh,</l>
-            <l>Dà thüet's bol nochher verdriesse,</l>
-            <l>Wenn vom Alter kämme d'Weh!</l>
-            <lg/>
+            <lg>
+                <l>Wer z'viel do thüet d'Jugend g'niesse</l>
+                <l>Un ihr nitt ka widersteh,</l>
+                <l>Dà thüet's bol nochher verdriesse,</l>
+                <l>Wenn vom Alter kämme d'Weh!</l>
+            </lg>
             <p>Mit allem dem bin ich nitt iwel verstünt gsi, wo Dü mir gestert z'Nacht spot im versteckte an dr Lade
                 klopft hasch, als Jumpfre-n-aglegt, fir welle do iwer Nacht z'bliwe ...
             </p>
@@ -129,33 +140,53 @@
             <p>Mit allem dem müess ich jetz süeche, ne Üsred z'erfinde fir mi Vater... das wird e G'schwàtz gà, denn De
                 kennsch d'Lit!... 's grüst mr nitt iwel fir heim...
             </p>
-            <p>:::Dü weisch wie d'Schwàtzerei</p>
-            <p>::Mit em zim bum bum ''(bis)''</p>
-            <p>::Ne jede Narrethei,</p>
-            <p>::Un isch se noch so dumm,</p>
-            <p>::Dur d'Stadt als bringt so g'schwind</p>
-            <p>|-----</p>
-            <p>| rowspan="2" |Mitnander&lt;span style="font-size:
-                250%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;
-            </p>
-            <p>|As wie dr Wind,</p>
-            <p>|-----</p>
-            <p>|So g'schwind as wie dr Wind.</p>
-            <p>|}</p>
-            <p>::Wie wird's erst losgeh hit</p>
-            <p>::Mit em zim bum bum, ''(bis)''</p>
-            <p>::Wo-n-ich g'macht ha dà Schritt!</p>
-            <p>::Do blibt g'wiss nieme stumm,</p>
-            <p>::Me macht noch mehr derzüe</p>
-            <p>|-----</p>
-            <p>| rowspan="2" |Mitnander&lt;span style="font-size:
-                250%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;
-            </p>
-            <p>|Un doch wàr's g'nüe,</p>
-            <p>|-----</p>
-            <p>|Un doch wàr's scho gnnüe!</p>
-            <p>|}</p>
+            <head>G'sang</head>
+            <lg>
+                <l>Dü weisch wie d'Schwàtzerei</l>
+                <l>Mit em zim bum bum ''</l>
+                <stage>(bis)</stage>
+                <l>Ne jede Narrethei,</l>
+                <l>Un isch se noch so dumm,</l>
+                <l>Dur d'Stadt als bringt so g'schwind</l>
+            </lg>
         </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#oscar.">
+                <speaker>Oscar.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|As wie dr Wind,</l>
+                    <l>|-----</l>
+                    <l>|So g'schwind as wie dr Wind.</l>
+                </lg>
+            </sp>
+        </spGrp>
+        <sp who="#oscar.">
+            <speaker>Oscar.</speaker>
+            <lg>
+                <l>Wie wird's erst losgeh hit</l>
+                <l>Mit em zim bum bum, ''</l>
+                <stage>(bis)</stage>
+                <l>Wo-n-ich g'macht ha dà Schritt!</l>
+                <l>Do blibt g'wiss nieme stumm,</l>
+                <l>Me macht noch mehr derzüe</l>
+            </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#oscar.">
+                <speaker>Oscar.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|Un doch wàr's g'nüe,</l>
+                    <l>|-----</l>
+                    <l>|Un doch wàr's scho gnnüe!</l>
+                </lg>
+            </sp>
+        </spGrp>
         <sp who="#emil.">
             <speaker>Emil.</speaker>
             <p>Das isch wohr... was witt jetz mache?...</p>
@@ -214,6 +245,9 @@
         <sp who="#oscar.">
             <speaker>Oscar.</speaker>
             <p>Jà... 's kunnt ebber!</p>
+        </sp>
+        <sp who="#emil_(àngstlig).">
+            <speaker>Emil (àngstlig).</speaker>
             <p>'s isch d'Stimm vo mim Vater... (er geht geh lose an dr Thüre hinte) mi Müetter isch mit em... was wànn
                 se jetz do ku mache, sie, wo schier nie do hintere kämme?...
             </p>
@@ -311,32 +345,43 @@
             </p>
             <head>G'sang</head>
             <stage>(Kaiser Franz)</stage>
-            <p>:::Vor dr Welt un ihre G'fohre</p>
-            <p>::Süech ich z'b'schitze jetz mi Kind,</p>
-            <p>::Denn me-n-isch als gli verlore,</p>
-            <p>::Bol hat eim dr böse Find!</p>
-            <p>::Drum ha-n-ich, fir das z'erlange,</p>
-            <p>::D'Jumpfer Faste kumme lo,</p>
-            <p>|-----</p>
-            <p>| rowspan="10" |Mitnander.&lt;span style="font-size: 900%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;</p>
-            <p>|Denn eso wird mi Verlange</p>
-            <p>| rowspan="2" |&lt;span style="font-size: 250%;"&gt;&lt;nowiki&gt;}&lt;/nowiki&gt;&lt;/span&gt; ''bis''
-            </p>
-            <p>|-----</p>
-            <p>|In Erfillung geh derno!</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;</p>
-            <p>| rowspan="2" |</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;&lt;small&gt;'''Herr Schimmel un Emil.'''&lt;/small&gt;</p>
-            <p>|-----</p>
-            <p>|Denn eso wird ihr' verlange</p>
-            <p>| rowspan="2" |&lt;span style="font-size: 250%;"&gt;&lt;nowiki&gt;}&lt;/nowiki&gt;&lt;/span&gt; ''bis''
-            </p>
-            <p>|-----</p>
-            <p>|In Erfillung geh derno!</p>
-            <p>|}</p>
+            <lg>
+                <l>Vor dr Welt un ihre G'fohre</l>
+                <l>Süech ich z'b'schitze jetz mi Kind,</l>
+                <l>Denn me-n-isch als gli verlore,</l>
+                <l>Bol hat eim dr böse Find!</l>
+                <l>Drum ha-n-ich, fir das z'erlange,</l>
+                <l>D'Jumpfer Faste kumme lo,</l>
+            </lg>
         </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#madame_schimmel.">
+                <speaker>Madame Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|Denn eso wird mi Verlange</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                    <l>|In Erfillung geh derno!</l>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                </lg>
+            </sp>
+            <sp who="#herr_schimmel_un_emil.">
+                <speaker>Herr Schimmel un Emil.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>|Denn eso wird ihr' verlange</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                    <l>|In Erfillung geh derno!</l>
+                </lg>
+            </sp>
+        </spGrp>
         <sp who="#emil.">
             <speaker>Emil.</speaker>
             <p>Mi Mame hat ganz Recht!</p>
@@ -412,34 +457,49 @@
             </p>
             <head>G'sang</head>
             <stage>(O Strassburg)</stage>
-            <p>:::Mi Kaffee ''(bis)''</p>
-            <p>::Müess ich vor allem ha</p>
-            <p>::Am Morge, ''(bis)''</p>
-            <p>::Fir mich z'erhole dra;</p>
-            <p>|-----</p>
-            <p>| rowspan="10" |Mitnander.&lt;span style="font-size: 950%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;</p>
-            <p>|&amp;nbsp;Isch 's Kaffee als güet g'lunge,</p>
-            <p>|-----</p>
-            <p>|So stärkt's mir wieder d'Zunge</p>
-            <p>|-----</p>
-            <p>|Un git Kraft in dr Lunge,</p>
-            <p>|-----</p>
-            <p>|Ass ich güet schwàtze ka!</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;&amp;nbsp;&lt;small&gt;'''Herr Schimmel un Emil.'''&lt;/small&gt;</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;Isch 's Kaffee als güet g'lunge,</p>
-            <p>|-----</p>
-            <p>|So stärkt's ihr' wieder d'Zunge</p>
-            <p>|-----</p>
-            <p>|Un git Kraft in dr Lunge,</p>
-            <p>|-----</p>
-            <p>|Ass sie güet schwàtze ka!</p>
-            <p>|}</p>
-            <stage>(Madame Schimmel geht hinte-n-üse.)</stage>
+            <lg>
+                <l>Mi Kaffee ''</l>
+                <stage>(bis)</stage>
+                <l>Müess ich vor allem ha</l>
+                <l>Am Morge, ''</l>
+                <stage>(bis)</stage>
+                <l>Fir mich z'erhole dra;</l>
+                <stage>(Madame Schimmel geht hinte-n-üse.)</stage>
+            </lg>
         </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#madame_schimmel.">
+                <speaker>Madame Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|&amp;nbsp;Isch 's Kaffee als güet g'lunge,</l>
+                    <l>|-----</l>
+                    <l>|So stärkt's mir wieder d'Zunge</l>
+                    <l>|-----</l>
+                    <l>|Un git Kraft in dr Lunge,</l>
+                    <l>|-----</l>
+                    <l>|Ass ich güet schwàtze ka!</l>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;</l>
+                    <l>|-----</l>
+                </lg>
+            </sp>
+            <sp who="#herr_schimmel_un_emil.">
+                <speaker>Herr Schimmel un Emil.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;Isch 's Kaffee als güet g'lunge,</l>
+                    <l>|-----</l>
+                    <l>|So stärkt's ihr' wieder d'Zunge</l>
+                    <l>|-----</l>
+                    <l>|Un git Kraft in dr Lunge,</l>
+                    <l>|-----</l>
+                    <l>|Ass sie güet schwàtze ka!</l>
+                </lg>
+            </sp>
+        </spGrp>
     </div>
     <div type="scene">
         <head>III. Uftritt.</head>
@@ -763,45 +823,56 @@
             <p>Au revoir, also .... Jumpfer Faste... thàt Se sich's jetz bequem mache.</p>
             <head>G'sang</head>
             <stage>(Auf den Alpen)</stage>
-            <lg/>
-            <l part="Y">Ungeniert ka Sie do wohne,</l>
-            <l>Niene hätt Sie's jo so güet.</l>
+            <lg>
+                <l>Ungeniert ka Sie do wohne,</l>
+                <l>Niene hätt Sie's jo so güet.</l>
+            </lg>
         </sp>
         <sp who="#jumpfer_faste.">
             <speaker>Jumpfer Faste.</speaker>
-            <l>Mag dr Himmel Sie belohne,</l>
-            <l>Fir was Sie an mir jetz thüet.</l>
+            <lg>
+                <l>Mag dr Himmel Sie belohne,</l>
+                <l>Fir was Sie an mir jetz thüet.</l>
+            </lg>
         </sp>
         <sp who="#madame_schimmel.">
             <speaker>Madame Schimmel.</speaker>
-            <lg/>
-            <p>|-----</p>
-            <p>|Wenn dr Herr Sie will bekehre,</p>
-            <p>| rowspan="10" |&lt;span style="font-size: 900%;"&gt;&lt;nowiki&gt;}&lt;/nowiki&gt;&lt;/span&gt;
-                Mitnander.
-            </p>
-            <p>|-----</p>
-            <p>|Müesst Se-n-als nitt uf ne höre,</p>
-            <p>|-----</p>
-            <p>|Denn nit Güet's thàt er Se lehre,</p>
-            <p>|-----</p>
-            <p>|Er hat d'Tugend nitt im Blüet.</p>
-            <p>|-----</p>
-            <p>|</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;&lt;small&gt;'''Herr Schimmel.'''&lt;/small&gt;</p>
-            <p>|-----</p>
-            <p>|Die ka eim 's Verstelle lehre!</p>
-            <p>|-----</p>
-            <p>|Soviel as ich jetz thüe höre,</p>
-            <p>|-----</p>
-            <p>|Wott ich selwer schiergar schwöre,</p>
-            <p>|-----</p>
-            <p>|Ass sie's nitt üs List nur thüet.</p>
-            <p>|}</p>
             <stage>(Herr un Madame Schimmel gehn hinte-n-üse)</stage>
             <pb n="516 517"/>
         </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#madame_schimmel.">
+                <speaker>Madame Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>|Wenn dr Herr Sie will bekehre,</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                    <l>|Müesst Se-n-als nitt uf ne höre,</l>
+                    <l>|-----</l>
+                    <l>|Denn nit Güet's thàt er Se lehre,</l>
+                    <l>|-----</l>
+                    <l>|Er hat d'Tugend nitt im Blüet.</l>
+                    <l>|-----</l>
+                    <l>|</l>
+                    <l>|-----</l>
+                </lg>
+            </sp>
+            <sp who="#herr_schimmel.">
+                <speaker>Herr Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>|Die ka eim 's Verstelle lehre!</l>
+                    <l>|-----</l>
+                    <l>|Soviel as ich jetz thüe höre,</l>
+                    <l>|-----</l>
+                    <l>|Wott ich selwer schiergar schwöre,</l>
+                    <l>|-----</l>
+                    <l>|Ass sie's nitt üs List nur thüet.</l>
+                </lg>
+            </sp>
+        </spGrp>
     </div>
     <div type="scene">
         <head>VI. Uftritt.</head>
@@ -982,39 +1053,50 @@
             <speaker>Oscar</speaker>
             <stage>(fir sich)</stage>
             <p>Das isch jetz emol ag'nehm az'höre!</p>
-            <p>Jumpfer Faste.'''&lt;/small&gt;</p>
-            <p>Oh, wenn ich Se doch nur kännt uf dr rechte Weg z'ruckbringe,</p>
-            <head>G'sang</head>
-            <stage>(t'en souviens tu Marie)</stage>
-            <lg/>
-            <l part="Y">So jung un scho so stark</l>
-            <l>Fir 's Böse, 's isch doch arg!</l>
-            <l>O Schwester, hör uf mich,</l>
-            <l>Bekehre will ich Dich.</l>
-            <stage>(se nimmt em d'Hand)</stage>
-            <l part="Y">Viel Freid will ich dra ha,</l>
-            <l>Wenn ich Dich rette ka</l>
-            <l>Noch üs dem Netz, wo do</l>
-            <l>Dir d'Liewe spannt eso.</l>
-            <lg/>
-            <stage>(Se losst d'Hand fahre, fir sich)</stage>
-            <lg/>
-        </sp>
-        <sp who="#oscar.">
-            <speaker>Oscar.</speaker>
-            <l part="Y">Ich mach dr erste Schritt,</l>
-            <l>Verspreche thüe-n-ich hit,</l>
-            <l>Ass nie kei Mann me ka</l>
-            <l>Mi Herz mir mache z'schla!</l>
         </sp>
         <sp who="#jumpfer_faste.">
             <speaker>Jumpfer Faste.</speaker>
-            <l part="Y">Isch das jetz wirklig wohr,</l>
-            <l>Siehsch Dü se-n-i, die G'fohr?</l>
-            <l>Entsage thüesch dàr Lust?</l>
-            <l>So kumm denn an mi Brust!</l>
-            <lg/>
+            <p>Oh, wenn ich Se doch nur kännt uf dr rechte Weg z'ruckbringe,</p>
+            <head>G'sang</head>
+            <stage>(t'en souviens tu Marie)</stage>
+            <lg>
+                <l>So jung un scho so stark</l>
+                <l>Fir 's Böse, 's isch doch arg!</l>
+                <l>O Schwester, hör uf mich,</l>
+                <l>Bekehre will ich Dich.</l>
+                <stage>(se nimmt em d'Hand)</stage>
+                <l>Viel Freid will ich dra ha,</l>
+                <l>Wenn ich Dich rette ka</l>
+                <l>Noch üs dem Netz, wo do</l>
+                <l>Dir d'Liewe spannt eso.</l>
+            </lg>
+        </sp>
+        <sp who="#jumpfer_faste.">
+            <speaker>Jumpfer Faste.</speaker>
+            <stage>(Se losst d'Hand fahre, fir sich)</stage>
+            <p>ich weiss nitt, was ich empfind bi dàre Person!... 's isch as wie wenn d'Angst un Freid mitnander
+                thàte-n-in mi Herz izieh!...
+            </p>
+        </sp>
+        <sp who="#oscar.">
+            <speaker>Oscar.</speaker>
+            <lg>
+                <l>Ich mach dr erste Schritt,</l>
+                <l>Verspreche thüe-n-ich hit,</l>
+                <l>Ass nie kei Mann me ka</l>
+                <l>Mi Herz mir mache z'schla!</l>
+            </lg>
+        </sp>
+        <sp who="#jumpfer_faste.">
+            <speaker>Jumpfer Faste.</speaker>
+            <lg>
+                <l>Isch das jetz wirklig wohr,</l>
+                <l>Siehsch Dü se-n-i, die G'fohr?</l>
+                <l>Entsage thüesch dàr Lust?</l>
+                <l>So kumm denn an mi Brust!</l>
+            </lg>
             <stage>(Se umarmt 'n, stosst 'n awer glich wiederz'ruck, fir sich)</stage>
+            <p>wieder die gliche-n-Empfindung... ich weiss gar nitt, was ich denke soll!</p>
         </sp>
         <sp who="#oscar.">
             <speaker>Oscar.</speaker>
@@ -1065,6 +1147,7 @@
                 g'spir dr böse Find in alle-n-Ecke un ka nitt g'nüeg Achtung gà, ass ich mich nitt umstrike loss ..
                 doch, wer hör i do .. (dr Herr Schimmel kunnt hinte-n-ine).
             </p>
+            <p>small&gt;</p>
         </sp>
         <sp who="#herr_schimmel">
             <speaker>Herr Schimmel</speaker>
@@ -1098,29 +1181,40 @@
             <p>::Mir hàn dr Zit.</p>
             <p>::Binander z'si, mir Zwei,</p>
             <p>::Do ganz allei.</p>
-            <p>|-----</p>
-            <p>| rowspan="10" |Mitnander.&lt;span style="font-size: 1100%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;</p>
-            <p>|Mi Fraü trumpiere,</p>
-            <p>|-----</p>
-            <p>|Das wà mr prawiere!</p>
-            <p>|-----</p>
-            <p>|'s müess schnell marschiere,</p>
-            <p>|-----</p>
-            <p>|Denn schwinde thüet d'Zit!</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;&lt;small&gt;'''Jumpfer Faste.'''&lt;/small&gt;</p>
-            <p>|-----</p>
-            <p>|Si Fraü trumpiere,</p>
-            <p>|-----</p>
-            <p>|Das will er prawiere!</p>
-            <p>|-----</p>
-            <p>|Fir mich z'verfiehre,</p>
-            <p>|-----</p>
-            <p>|Verliert er si Zit!</p>
-            <p>|}</p>
         </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#herr_schimmel.">
+                <speaker>Herr Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|Mi Fraü trumpiere,</l>
+                    <l>|-----</l>
+                    <l>|Das wà mr prawiere!</l>
+                    <l>|-----</l>
+                    <l>|'s müess schnell marschiere,</l>
+                    <l>|-----</l>
+                    <l>|Denn schwinde thüet d'Zit!</l>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;</l>
+                    <l>|-----</l>
+                </lg>
+            </sp>
+            <sp who="#jumpfer_faste.">
+                <speaker>Jumpfer Faste.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>|Si Fraü trumpiere,</l>
+                    <l>|-----</l>
+                    <l>|Das will er prawiere!</l>
+                    <l>|-----</l>
+                    <l>|Fir mich z'verfiehre,</l>
+                    <l>|-----</l>
+                    <l>|Verliert er si Zit!</l>
+                </lg>
+            </sp>
+        </spGrp>
         <sp who="#herr_schimmel">
             <speaker>Herr Schimmel</speaker>
             <stage>(fir sich)</stage>
@@ -1331,31 +1425,47 @@
             </p>
             <head>G'sang</head>
             <stage>(Loreley.)</stage>
-            <p>:::Ich weiss nitt, was ich Dir soll sage,</p>
-            <p>::'s isch so unschuidig gsi,</p>
-            <p>::Dena 's stammt noch her vo sàlle Tage,</p>
-            <p>::Wo-n-ich Student gsi bi;</p>
-            <p>::Gar vielmol ha-n-ich sie bewundert,</p>
-            <p>::Ihr' Andacht hat mich g'riehrt,</p>
-            <p>|-----</p>
-            <p>| rowspan="6" |Mitnander.&lt;span style="font-size:
-                700%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;
-            </p>
-            <p>|Ich hätt se jetz kennt unter Hundert</p>
-            <p>|-----</p>
-            <p>|Un hätt mich nitt trumpiert!</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;&lt;small&gt;'''Herr Schimmel.'''&lt;/small&gt;</p>
-            <p>|-----</p>
-            <p>|Ich bi jo wahrhaft ganz verwundert,</p>
-            <p>|-----</p>
-            <p>|Ich ha mich halt trumpiert!</p>
-            <p>|}</p>
-            <p>Derno wàr's also d'wirklige Jumpfer Faste, wo mr erst später erwartet hàn!... Emil, ich verbiet Dir
-                se-n-az'lüege oder mit ere z'rede... ich zähl druf, ass Dü mir folge thüesch!
-            </p>
+            <lg>
+                <l>Ich weiss nitt, was ich Dir soll sage,</l>
+                <l>'s isch so unschuidig gsi,</l>
+                <l>Dena 's stammt noch her vo sàlle Tage,</l>
+                <l>Wo-n-ich Student gsi bi;</l>
+                <l>Gar vielmol ha-n-ich sie bewundert,</l>
+                <l>Ihr' Andacht hat mich g'riehrt,</l>
+            </lg>
+        </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#emil.">
+                <speaker>Emil.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|Ich hätt se jetz kennt unter Hundert</l>
+                    <l>|-----</l>
+                    <l>|Un hätt mich nitt trumpiert!</l>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;</l>
+                    <l>|-----</l>
+                </lg>
+            </sp>
+            <sp who="#herr_schimmel.">
+                <speaker>Herr Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>|Ich bi jo wahrhaft ganz verwundert,</l>
+                    <l>|-----</l>
+                    <l>|Ich ha mich halt trumpiert!</l>
+                </lg>
+            </sp>
+        </spGrp>
+        <sp who="#emil.">
+            <speaker>Emil.</speaker>
+            <lg>
+                <l>Derno wàr's also d'wirklige Jumpfer Faste, wo mr erst später erwartet hàn!... Emil, ich verbiet Dir
+                    se-n-az'lüege oder mit ere z'rede... ich zähl druf, ass Dü mir folge thüesch!
+                </l>
+            </lg>
         </sp>
         <sp who="#emil.">
             <speaker>Emil.</speaker>
@@ -1518,27 +1628,36 @@
             <p>::Was ich mit dem will sage!</p>
             <p>Ich weiss nitt, was die hàn mit mir,</p>
             <p>Se mache mich bol hinterfir;</p>
-            <p>|-----</p>
-            <p>| rowspan="8" |Mitnander.&lt;span style="font-size:
-                900%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;
-            </p>
-            <p>|Ich kumm nitt drüs.</p>
-            <p>|-----</p>
-            <p>|Was in dem Hüs</p>
-            <p>|-----</p>
-            <p>|Ich alles müess ertrage!</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;&lt;small&gt;'''Herr un Madame Schimmel.'''&lt;/small&gt;</p>
-            <p>|-----</p>
-            <p>|Sie müess mr drüs,</p>
-            <p>|-----</p>
-            <p>|Denn in mim Hüs</p>
-            <p>|-----</p>
-            <p>|Ka-n-ich das nitt vertrage!</p>
-            <p>|}</p>
         </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#madame_schimmel.">
+                <speaker>Madame Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|Ich kumm nitt drüs.</l>
+                    <l>|-----</l>
+                    <l>|Was in dem Hüs</l>
+                    <l>|-----</l>
+                    <l>|Ich alles müess ertrage!</l>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;</l>
+                    <l>|-----</l>
+                </lg>
+            </sp>
+            <sp who="#herr_un_madame_schimmel.">
+                <speaker>Herr un Madame Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>|Sie müess mr drüs,</l>
+                    <l>|-----</l>
+                    <l>|Denn in mim Hüs</l>
+                    <l>|-----</l>
+                    <l>|Ka-n-ich das nitt vertrage!</l>
+                </lg>
+            </sp>
+        </spGrp>
         <sp who="#madame_schimmel.">
             <speaker>Madame Schimmel.</speaker>
             <p>Jumpfer Tülipa, ich hätt Ere viellicht noch känne verzeihe, ass Se ne falscher Name agnu hat... awer ass
@@ -1711,39 +1830,46 @@
             </p>
             <head>G'sang</head>
             <stage>(partant pour la Syrie)</stage>
-            <p>:::'s blibt ewe nit verborge,</p>
-            <p>::'s kunnt alles wieder üs,</p>
-            <p>::Me hat Se g'sàh dà Morge</p>
-            <p>::Am Fenster do im Hüs;</p>
-            <p>|-----</p>
-            <p>| rowspan="10" |Mitnander.&lt;span style="font-size: 1200%;"&gt;&lt;nowiki&gt;{&lt;/nowiki&gt;&lt;/span&gt;</p>
-            <p>|Das isch e schöne G'schichte,</p>
-            <p>| rowspan="2" |</p>
-            <p>|-----</p>
-            <p>|Kei Büess isch z'härt derfir,</p>
-            <p>|-----</p>
-            <p>|Denn streng wird d'Welt Sie richte,</p>
-            <p>| rowspan="2" |&lt;span style="font-size: 300%;"&gt;&lt;nowiki&gt;}&lt;/nowiki&gt;&lt;/span&gt; ''bis''
-            </p>
-            <p>|-----</p>
-            <p>|Sie derfe's glaüwe mir!</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;</p>
-            <p>| rowspan="4" |</p>
-            <p>|-----</p>
-            <p>|&amp;nbsp;&lt;small&gt;'''Jumpfer Faste.&lt;/small&gt;'''</p>
-            <p>|-----</p>
-            <p>|Das isch e schöne G'schichte,</p>
-            <p>|-----</p>
-            <p>|'s rüeht alles nur uf mir,</p>
-            <p>|-----</p>
-            <p>|Sie thien mich ganz vernichte,</p>
-            <p>| rowspan="2" |&lt;span style="font-size: 600%;"&gt;&lt;nowiki&gt;}&lt;/nowiki&gt;&lt;/span&gt; ''bis''
-            </p>
-            <p>|-----</p>
-            <p>|Ich wird noch hinterfir!</p>
-            <p>|}</p>
+            <lg>
+                <l>'s blibt ewe nit verborge,</l>
+                <l>'s kunnt alles wieder üs,</l>
+                <l>Me hat Se g'sàh dà Morge</l>
+                <l>Am Fenster do im Hüs;</l>
+            </lg>
         </sp>
+        <spGrp type="simultaneous" rend="braced">
+            <stage>Mitnander</stage>
+            <sp who="#madame_schimmel.">
+                <speaker>Madame Schimmel.</speaker>
+                <lg>
+                    <l>|-----</l>
+                    <l>| rowspan</l>
+                    <l>|Das isch e schöne G'schichte,</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                    <l>|Kei Büess isch z'härt derfir,</l>
+                    <l>|-----</l>
+                    <l>|Denn streng wird d'Welt Sie richte,</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                    <l>|Sie derfe's glaüwe mir!</l>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                    <l>|&amp;nbsp;</l>
+                    <l>|-----</l>
+                    <l>|Das isch e schöne G'schichte,</l>
+                    <l>|-----</l>
+                    <l>|'s rüeht alles nur uf mir,</l>
+                    <l>|-----</l>
+                    <l>|Sie thien mich ganz vernichte,</l>
+                    <l>| rowspan</l>
+                    <l>|-----</l>
+                    <l>|Ich wird noch hinterfir!</l>
+                </lg>
+            </sp>
+        </spGrp>
         <sp who="#madame_schimmel.">
             <speaker>Madame Schimmel.</speaker>
             <p>G'wiss... das geht Ene jetz emol nitt dure!</p>
@@ -1898,25 +2024,27 @@
             <p>Ich ha jetz g'nüeg kàmpft un g'stritte... un 's hat alles nit g'nutzt... ich bin iwerwunde... ich gib Dir
                 mi Lewe, mi Seel un alles z'àmme.
             </p>
-            <lg/>
             <head>G'sang</head>
             <stage>(Fremersberg)</stage>
-            <l part="Y">Ich ha jetz kàmpft scho lange Stunde,</l>
-            <l>Doch d'Kraft hat mich verlo,</l>
-            <l>Dr Böse hat mich iwerwunde</l>
-            <l>Jetz uf dr Erde do.</l>
-            <l>Doch wenn emol sich d'Höll ufthüet,</l>
-            <l>So soll's mir fehle nitt an Müeth,</l>
-            <l>Wenn Dü se theile thüesch mit mir</l>
-            <l>Un ass ich bliwe ka bi Dir.</l>
+            <lg>
+                <l>Ich ha jetz kàmpft scho lange Stunde,</l>
+                <l>Doch d'Kraft hat mich verlo,</l>
+                <l>Dr Böse hat mich iwerwunde</l>
+                <l>Jetz uf dr Erde do.</l>
+                <l>Doch wenn emol sich d'Höll ufthüet,</l>
+                <l>So soll's mir fehle nitt an Müeth,</l>
+                <l>Wenn Dü se theile thüesch mit mir</l>
+                <l>Un ass ich bliwe ka bi Dir.</l>
+            </lg>
         </sp>
         <sp who="#emil.">
             <speaker>Emil.</speaker>
-            <l>Doch wenn emol sich d'Höll ufthüet,</l>
-            <l>So soll's uns fehle nitt an Müeth,</l>
-            <l>Wenn Sie se theile thüet mit mir</l>
-            <l>Un ass ich bliwe ka bi Ihr.</l>
-            <lg/>
+            <lg>
+                <l>Doch wenn emol sich d'Höll ufthüet,</l>
+                <l>So soll's uns fehle nitt an Müeth,</l>
+                <l>Wenn Sie se theile thüet mit mir</l>
+                <l>Un ass ich bliwe ka bi Ihr.</l>
+            </lg>
         </sp>
         <sp who="#jumpfer_faste">
             <speaker>Jumpfer Faste</speaker>
@@ -2060,24 +2188,27 @@
             <p>Eh bien, Herr un Madame Schimmel... gàn Se-n-Ihre Sege derzüe un mr wànn hoffe, ass in kurzer Zitt ne
                 ganze Heerd junge Schimmele do umelaüfe werde!...
             </p>
-            <lg/>
+            <head>G'sang</head>
         </sp>
         <sp who="#jumpfer_faste.">
             <speaker>Jumpfer Faste.</speaker>
-            <l>Jetz, wo-n-ich e Mann bekumm,</l>
-            <l>Müess ich g'steh, ''</l>
-            <stage>(bis)</stage>
-            <l>Ass ich nimmig wàr so dumm</l>
-            <l>Un wott ins Kloster geh!</l>
+            <lg>
+                <l>Jetz, wo-n-ich e Mann bekumm,</l>
+                <l>Müess ich g'steh, ''</l>
+                <stage>(bis)</stage>
+                <l>Ass ich nimmig wàr so dumm</l>
+                <l>Un wott ins Kloster geh!</l>
+            </lg>
         </sp>
         <sp who="#alle.">
             <speaker>Alle.</speaker>
-            <l>D'Hiroth isch halt 's End vom Lied;</l>
-            <l>Drum ihr Lit ''</l>
-            <stage>(bis)</stage>
-            <l>Süeche-n-alle-n-eüre Hiet,</l>
-            <l>Fir heimz'geh isch's Zit.</l>
-            <lg/>
+            <lg>
+                <l>D'Hiroth isch halt 's End vom Lied;</l>
+                <l>Drum ihr Lit ''</l>
+                <stage>(bis)</stage>
+                <l>Süeche-n-alle-n-eüre Hiet,</l>
+                <l>Fir heimz'geh isch's Zit.</l>
+            </lg>
         </sp>
     </div>
 </body>
