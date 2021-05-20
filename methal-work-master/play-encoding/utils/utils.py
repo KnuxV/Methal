@@ -107,7 +107,7 @@ def create_tei_header(row, other=None):
     etree.SubElement(publicationStmt, "publisher").text = \
         "LiLPa - Université de Strasbourg"
     availability_str = other["availability"]
-    publicationStmt.append(etree.fromstring(availability_str))
+    publicxxationStmt.append(etree.fromstring(availability_str))
     wikidata_id = etree.SubElement(publicationStmt, "idno", type="wikidata")
     wikidata_id.text = row.wikidata
     wikidata_id.attrib["{http://www.w3.org/XML/1998/namespace}base"] = \

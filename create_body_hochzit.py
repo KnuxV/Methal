@@ -5,7 +5,8 @@ from itertools import islice
 import re
 
 # Regex
-
+# Act MATCH specific
+re_ACT = re.compile(r"=\s(II?\.\sACT)\.\s=")
 # To match the acts like == I. Uftritt. ==
 re_act = re.compile(r"==\s(.+)\s==")
 # For match type=characters
@@ -66,9 +67,6 @@ def get_list_char(title):
     xml = "data/castList/" + title
     tree = ET.parse(xml)
     return tree.xpath("//castItem/@corresp")
-
-
-# print(get_list_char("Am_letzte_Maskebal.xml"))
 
 
 def create_body(path, startline):
@@ -133,6 +131,7 @@ def create_body(path, startline):
 
         for index, line in enumerate(f):
             line = line.rstrip()
+            match_ACT = re.search(re_ACT, line)
             match_act = re.search(re_act, line)
             match_several_chars = re.match(re_several_chars, line)
             match_single_char = re.match(re_single_char, line)
@@ -144,9 +143,14 @@ def create_body(path, startline):
             match_table_open = re.match(re_table_open, line)
             match_mitnander = re.match(re_mitnander, line)
 
+            if match_ACT:
+                act_div = Div(body.xml_body)
+                act_div.add_type_att("ACT")
+                act_div.add_head(match_ACT.group(0))
+
             # Creating act
             if match_act:
-                div = Div(body.xml_body)
+                div = Div(act_div.xml_div)
                 div.add_type_att("scene")
                 div.add_head(match_act.group(1))
 
@@ -160,7 +164,7 @@ def create_body(path, startline):
                 try:
                     sp = Sp(div.xml_div)
                 except NameError:
-                    div = Div(body.xml_body)
+                    div = Div(act_div.xml_div)
                     div.add_type_att("scene")
                     sp = Sp(div.xml_div)
                 speaker = match_single_char.group("char")
@@ -193,7 +197,10 @@ def create_body(path, startline):
                     try:
                         sp.add_stage(match_stage_line.group(1))
                     except UnboundLocalError:
-                        div.add_stage(match_stage_line.group(1))
+                        try:
+                            div.add_stage(match_stage_line.group(1))
+                        except UnboundLocalError:
+                            act_div.add_stage(match_stage_line.group(1))
 
             elif match_page:
                 # For the pages, we add then the <pb> tag wherever we find it.
@@ -238,25 +245,4 @@ def create_body(path, startline):
 
 
 if __name__ == "__main__":
-    create_body("data/txt/D'Hüslit_vo_dr_Fraü_Suppedunke.txt", 37)
-    create_body("data/txt/D'Milhüser_in_Paris.txt", 23)
-    create_body("data/txt/D'Singstund.txt", 32)
-    create_body("data/txt/D'Tante_Domino.txt", 34)
-    create_body("data/txt/Dr_Astronom.txt", 32)
-    create_body("data/txt/Dr_Chineserfranz.txt", 37)
-    create_body("data/txt/Dr_Fechtmeister.txt", 36)
-    create_body("data/txt/Dr_Hochzitstag.txt", 13)
-    create_body("data/txt/Drei_schwarze_Liebschafte.txt", 29)
-    create_body("data/txt/Drizehne.txt", 34)
-    create_body("data/txt/Hans_Dich_Hat's!.txt", 38)
-    create_body("data/txt/Im_Gretele_sine_Künstler.txt", 33)
-    create_body("data/txt/Im_Julie_si_G'heimniss.txt", 34)
-    create_body("data/txt/In_dr_Falle.txt", 39)
-    create_body("data/txt/Milhüser_Bilder.txt", 55)
-    create_body("data/txt/Ne_Hiroth_dur_d'Extrapost.txt", 28)
-    create_body("data/txt/Ne_Jumpfre,_wo_nitt_hirothe_will.txt", 33)
-    create_body("data/txt/Ne_Scandal.txt", 33)
-    create_body("data/txt/Uf_B'süech_bi_dr_Fraü.txt", 29)
-    # create_body("data/txt/Vor_un_no_dr_Hochzit.txt", 24)
-    # create_body("data/txt/Z'Nacht_am_Zehne.txt", 15)
-    create_body("data/txt/Zwei_Erfindunge.txt", 36)
+    create_body("data/txt/Vor_un_no_dr_Hochzit.txt", 24)

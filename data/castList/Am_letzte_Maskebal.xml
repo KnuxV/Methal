@@ -1,2 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<castList><head>PERSONE:</head><castItem corresp="#pierrot"><role><persName>Pierrot</persName></role><roleDesc></roleDesc></castItem><castItem corresp="#domino"><role><persName>Domino</persName></role><roleDesc></roleDesc></castItem><castItem corresp="#mehlgeist"><role><persName>Mehlgeist</persName></role><roleDesc></roleDesc></castItem></castList>
+<castList>
+    <head>PERSONE:</head>
+    <castItem corresp="#pierrot">
+        <role>
+            <persName>Pierrot</persName>
+        </role>
+        <roleDesc></roleDesc>
+    </castItem>
+    <castItem corresp="#domino">
+        <role>
+            <persName>Domino</persName>
+        </role>
+        <roleDesc></roleDesc>
+    </castItem>
+    <castItem corresp="#mehlgeist">
+        <role>
+            <persName>Mehlgeist</persName>
+        </role>
+        <roleDesc></roleDesc>
+    </castItem>
+</castList>

@@ -1,14 +1,9 @@
 from lxml import etree as ET
-from itertools import islice
-import re
+
+tei = ET.Element("TEI")
+tree = ET.parse('data/body/Am_letzte_Maskebal.xml').getroot()
+tei.insert(0, tree)
 
 
-def table(wrap):
-    f.__next__()
-    f.__next__()
-    for line in f:
-        print(line)
 
-
-with open("data/txt/test.txt", 'r', encoding="utf-8") as f:
-    table(f)
+ET.dump(tei)
