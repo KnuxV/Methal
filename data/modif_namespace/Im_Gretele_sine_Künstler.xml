@@ -1,0 +1,1924 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="main">Im Gretele sine Künstler</title>
+                <author key="wikidata:Q17038136">August Lustig</author>
+                <respStmt>
+                    <name>Kévin Michoud</name>
+                    <resp>TEI encoding</resp>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>LiLPa - Université de Strasbourg</publisher>
+                <availability>
+                    <licence>
+                        <ab>CC BY 2.0</ab>
+                        <url>Licence</url>
+                    </licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="digitalSource">
+                    <name>name</name>
+                    <idno type="URL">
+                        https://als.wikipedia.org/wiki/Text:August_Lustig/A._Lustig_S%C3%A4mtliche_Werke:_Band_2
+                    </idno>
+                    <bibl type="type">
+                        <author key="wikidata:Q17038136">August Lustig</author>
+                        <title type="main">Im Gretele sine Künstler</title>
+                        <publisher>Publisher</publisher>
+                        <date>date</date>
+                    </bibl>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <profileDesc>
+        <particDesc>
+            <listPerson>
+                <person xml:id="herr_fisselboge" sex="M">
+                    <persName>Herr FISSELBOGE</persName>
+                </person>
+                <person xml:id="herr_heiterwiss" sex="M">
+                    <persName>Herr HEITERWISS</persName>
+                </person>
+                <person xml:id="herr_gitzkrage" sex="M">
+                    <persName>Herr GITZKRAGE</persName>
+                </person>
+                <person xml:id="herr_knopfloch" sex="M">
+                    <persName>Herr KNOPFLOCH</persName>
+                </person>
+                <person xml:id="herr_gretele" sex="M">
+                    <persName>Herr GRETELE</persName>
+                </person>
+            </listPerson>
+            <listRelation/>
+        </particDesc>
+    </profileDesc>
+    <text>
+        <front>
+            <castList>
+                <head>Personen</head>
+                <castItem corresp="#herr_fisselboge">
+                    <role>
+                        <persName>Herr FISSELBOGE</persName>
+                    </role>
+                    <roleDesc>Gigeprofesser</roleDesc>
+                </castItem>
+                <castItem corresp="#herr_heiterwiss">
+                    <role>
+                        <persName>Herr HEITERWISS</persName>
+                    </role>
+                    <roleDesc>Kunstmoler</roleDesc>
+                </castItem>
+                <castItem corresp="#herr_gitzkrage">
+                    <role>
+                        <persName>Herr GITZKRAGE</persName>
+                    </role>
+                    <roleDesc>dr Hüsmeister</roleDesc>
+                </castItem>
+                <castItem corresp="#herr_knopfloch">
+                    <role>
+                        <persName>Herr KNOPFLOCH</persName>
+                    </role>
+                    <roleDesc>schnider vom Herr</roleDesc>
+                </castItem>
+                <castItem corresp="#herr_gretele">
+                    <role>
+                        <persName>Herr GRETELE</persName>
+                    </role>
+                    <roleDesc>Modiste.Fisselboge</roleDesc>
+                </castItem>
+            </castList>
+            <set/>
+        </front>
+        <body>
+            <div type="scene">
+                <head>I. Uftritt.</head>
+                <stage type="characters">Herr Fisselboge, derno Herr
+                    Knopfloch.
+                </stage>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <p>Die Nacht ha-n-i jetz doch pràchtig g'schlofe!.. ich ha
+                        g'meint, ich kännt nitt züem Bett üse, so güet hat's mi
+                        dunkt... 's wird jetz ewe scho ne wenig frisch z'Nacht
+                        un do git's herrlige Schlofnàchtle!... wenn ich alleweg
+                        nitt miesst geh Lektione gà, so wàr i sicher no nitt
+                        ufg'stande... Was isch denn eigentlig hit?... Mittwuche
+                        glaüb? (er lüegt uf dr Kalender) Herr je!... dr Erst...
+                        un ich, wo die zwei letschte Monet scho mi Zimmer
+                        schuldig bliwe bi!... Sin denn jetz scho wieder vier
+                        Wuche-n-umme (er steht vor dr Spiegel un macht 's
+                        Gràwle un birschtet dr Bart) 's isch doch merkwürdig,
+                        wie d'Zit so schnell umme geht!... ich ha mr scho dr
+                        Kopf schier üsdenkt, eb me nitt dr Erst vom Monet
+                        süprimiere kännt, denn das isch e fataler Tag!... alle
+                        Lit heische-n-eim Geld... selbst der Hüsmeisterl dr
+                        Herr Gitzkrage, fir si Chambre garnie!... dr Erst, am
+                        Morge um Elfe präzis, steht er allemol do (er lüegt uf
+                        d'Uehre) 's isch jetz halwer,in ere halbStund wird dr
+                        Krambo wieder los geh... (er legt dr Stràhl un
+                        d'Birschte-n-eweg un legt si Kittel a) denn wenn er
+                        sich ibildet, ass er Geld bikunnt hit, so trumpiert er
+                        sich wiescht... wo wott ich's doch nur o hernàh?... Bis
+                        ass ich d'Brasserie un 's Kaffee un sunscht so Dings
+                        alles z'àmme zahlt ha, wo me-n-eim kei Credit macht, so
+                        geht's 'uf... Was isch jetz z'mache?·... Wenn ich emol
+                        hirothe thàt, ass ich ab dr Gasse kàm, un Economie
+                        kännt mache?... Hà, hà, hà!... hirothe!... nei,
+                        hitigstags ka me nimmig hirothe, we me nitt Millionär
+                        isch... dr G'staat isch viel z'gross, wo die Jumpfraüe
+                        z'àmme mache jetz, un wenn se-n-emol g'hirothe sin, so
+                        wànn sie-n-en o nitt absite lo, au contraire... Nei,
+                        nei, ich hiroth viellicht emol, un noch viel andere mit
+                        mir, wohrschinlig, wenn sich die Dame-n-emol alege, nur
+                        fir sich az'lege un nitt, fir Eins 's Andere welle awe
+                        z'mache mit em G'staat un eso üsgehn mit ere Last
+                        Sache-n-un Dings an si hànke, eins làcherliger un
+                        disgrazioser as 's andere un wo se-n-ewe so viel kostet
+                        as es unnöthig isch!... Woher kunnt's, ass jetz eso
+                        vieljumpfraüe-n-alt werde un vergewes uf e Mann
+                        warte?... Ne junger Mensch ka sich jo jetz nimmig
+                        decidiere, ne Fraü z'nàh, wenn er scho züem vorüs
+                        weisst, ass si Verdienst nur mit ihrer Toilette
+                        ufgeht!... un wenn er derno e Familie bikunnt, wie
+                        geht's derno? .. An allem dem sin o d'Eltere gar viel
+                        d'Schuld, denn wenn ihre Kinder küm kroble känne, so
+                        thien se se scho amustere, as wie wenn's nit as
+                        Hans-Kasper wàre, un so wachst das Ding mit ene uf!...
+                        Wisse-n-Ihr, züe was ass es noch kunnt, wenn's eso
+                        furtgeht? 's hirothet Keiner meh, un derno git's üs
+                        dàne Dame-n-alle z'àmme nit as alte Jumpfraüe!....
+                    </p>
+                    <pb n="94 95"/>
+                    <head>G'sang</head>
+                    <stage>(Cadet Roussel)</stage>
+                    <lg>
+                        <l>Fir was soll ich e Fraü geh nàh?</l>
+                        <l>Ich kännt' an ihr dà G'staat nitt sàh?</l>
+                        <l>Ich miesst jo gige nur fir d'Mode,</l>
+                        <l>Un eso will ich nitt hirothe!</l>
+                        <l>Nei, nei, das isch e Schritt,</l>
+                        <l>Wo-n-ich nitt mach, ich hiroth nitt.</l>
+                        <l>Un git's erst kleine Kinder als,</l>
+                        <l>So schreie die üs vollem Hals!</l>
+                        <l>Do miesst ich wieder halt nur gige,</l>
+                        <l>Fir als die Schreier mache z'schwige!</l>
+                        <l>Nei, nei, das isch e Schritt,</l>
+                        <l>Wo-n-ich nitt mach, das thüe-n-i nitt.</l>
+                        <l>Ich hätt fir z'wehre nitt g'nüe Hànd,</l>
+                        <l>D'Kinder, die thàte mr am End,</l>
+                        <l>Sie, wo thien alles z'àmme risse,</l>
+                        <l>D'Gige verschla' un d'Saite v'risse;</l>
+                        <l>Nei, nei, das gieng mr nitt,</l>
+                        <l>'s Beste-n-isch halt, ich hiroth nitt.</l>
+                        <l>Awer mit dem allem isch jetz mi Zimmer doch nitt
+                            zahlt!... Mr wànn emol lüege, was d'Kasse sàit!...
+                        </l>
+                        <stage>(er süecht in sine Säck)</stage>
+                        <l>'s isch dr Herr Knopfloch. .. Ihre Kleid isch jo
+                            ganz üs dr Mode... un wisse Sie, ass Sie mir do
+                            schlecht Tüech g'liefert g'ha hàn, Herr
+                            Knopfloch?...
+                        </l>
+                        <stage>(mit zorniger Stimm)</stage>
+                    </lg>
+                    <pb n="96 97"/>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <p>'s nimmt mich gar nitt Wunder, Herr Fisselboge,</p>
+                    <p>wenn Ihr' Kleid nimmig Mode-n-isch un wenn's nimmig</p>
+                    <p>anander hebt!... 's isch ebbe scho lang g'nüe,</p>
+                    <p>ass Sie's hàn, un desto schlechter isch's, ass Sie's
+                        no
+                    </p>
+                    <p>nitt zahlt hàn... ich bi jetz scho meh as zeh mol do</p>
+                    <p>gsi un alIemol thien Sie mich üseschiewe...</p>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <p>Ich Sie üseschiewe, Herr Knopfloch?... niemols! (er git
+                        em e Stüehl) setze Sie sich nur... Sie geniere mich
+                        nitt... un züedem isch's Ihre Schuld, Herr Knopfloch,
+                        wenn Sie no nitt zahlt sin, ich ha Sie jo welle lehre
+                        gige derfir...
+                    </p>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(ungeduldig)</stage>
+                    <p>Ich brüch das nitt, Herr Fisselboge... Sie mache gern
+                        Spass, ich sieh scho... doch wenn Sie mir jetz
+                        wotte-n-emol in Ernst mi Note zahle...
+                    </p>
+                    <head>G'sang</head>
+                    <stage>(Rinaldini)</stage>
+                    <lg>
+                        <l>Ich wàr jetz bol g'nüe scho g'loffe</l>
+                        <l>Fir mi Geld un ha's no nitt;</l>
+                        <l>Drum will ich jetz endlig hoffe,</l>
+                        <l>Ass mr werde rechne hit.</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <lg>
+                        <l>Ass mr werde rechne hit. ''</l>
+                        <stage>(bis)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(springt z'ruck)</stage>
+                    <lg>
+                        <l>'s isch mr nitt um's rechne hit. ''</l>
+                        <stage>(bis)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(zeigt uf dr Herr Knopfloch)</stage>
+                    <p>'s fehlt ihm nit as noch d'Pistole</p>
+                    <p>Un e Fedre uf em Hüet!</p>
+                    <p>Doch bi mir isch hit nit z'hole,</p>
+                    <p>Wenn er noch so schrecklig thüet.</p>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Wenn er noch so schrecklig thüet. ''</l>
+                        <stage>(bis)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <lg>
+                        <l>Ich will, ass er zahle thüet. '''</l>
+                        <stage>(bis)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Ihre Note, Herr Knopfloch, die ha-n-i hait nimmig...
+                            ich ha se verlegt...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <lg>
+                        <l>Ich ha mr's wohl ibildet.. . do isch e frische</l>
+                        <stage>(er nimmt se üs em 'Sack un git se im Herr
+                            Fisselboge)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(b'schaüt se. Fir sich)</stage>
+                    <lg>
+                        <l>Ich begriff, ass er keine Stunde will nàh bi mr...
+                            er ka eim ohne das scho nitt iwel ufgige!...
+                        </l>
+                        <stage>(lüt)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(fir sich)</stage>
+                    <lg>
+                        <l>Un mine Interesse, meint er ich ka vergewes eso lang
+                            warte
+                        </l>
+                        <stage>(züem Herr Fisselboge)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(fir sich)</stage>
+                    <lg>
+                        <l>Vo dem, wo-n-er biku hat derfir, hat er alleweg noch
+                            nit g'spart!...
+                        </l>
+                        <stage>(lüt)</stage>
+                    </lg>
+                    <pb n="98 99"/>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <lg>
+                        <l>Jo, nitt wohr, Se hàn denkt, Se zahle's doch nitt
+                            ?
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Oh!... Herr Knopfloch, fir wer nàmme Sie mich?...
+                            Sie bekämme Ihr Geld, 's isch grad, wie wenn Sie's
+                            scho hätte...
+                        </l>
+                        <stage>(fir sich)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <lg>
+                        <l>Zweihundert Franke, Herr Fisselboge, Sie hàn jo
+                            d'Note dert.
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Aha, jà, i b'sinn mi... eh bien, Herr Knoptloch...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(g'spannt)</stage>
+                    <lg>
+                        <l>Eh bien?....</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Eh bien, ich will nitt màrte...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(fir sich)</stage>
+                    <lg>
+                        <l>Endlig...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Kämme Se hit z'Owe dure un do bekämme Se Ihr'
+                            Geld...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <lg>
+                        <l>Das hàn Se mr scho gar vielmol g'sàit, Herr
+                            Fisselboge, Se ha mi o hit heisse ku...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Eh bien jo, hit z'Owe... Sie begriffe doch wohl, ass
+                            ich die Summe nitt am Morgè frieih scho do lige
+                            ha... un züedem... Sie hàn jo nit z'riskiere, Herr
+                            Knopfloch, Sie wisse jo, ass ich e riche Tante ha,
+                            wo jetz efange-n-alt ùn krank isch...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Lose Se, Hen Fisselboge, ich ka jetz nimmig
+                            warte..
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Was hàn Se z'pressiere, Herr Knoptloch, 's isch jo
+                            no nitt emoi Elfe!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(trucke)</stage>
+                    <lg>
+                        <l>Ich will denn jetz noch emol dure ku hit z'Owe, awer
+                            's isch 's letschte mol!... wenn Sie derno Ihr'
+                            Wort nitt halte, so rede mir anderscht
+                            mitnander!... Adie Herr Fisselboge
+                        </l>
+                        <stage>(er geht üse, macht awer glich wieder d'Thüre uf
+                            un sait zornig)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Ouf!... endlig... doch nur bis z'Owe!... bàh ' wer
+                            weisst, was bis z'Owe g'schieht '... er dürt mi...
+                            awer ich bedür mich noch viel mehr mit mim
+                            abg'schabte Frack... wenn doch nur dr Monet nie üs
+                            wàr!...
+                        </l>
+                        <l>Glicklig isch 's Lewe,</l>
+                        <l>So lang di Monet dürt,</l>
+                        <l>Küm isch er fertig,</l>
+                        <l>Wird's eim versürt.</l>
+                        <l>Dr Erst vom Monet isch e Tag,</l>
+                        <l>Wo-n-ich gar nitt dra denke mag,</l>
+                        <l>Denn d'ganze Welt</l>
+                        <l>Heischt eim nur Geld</l>
+                        <l>Un tribt eim noch dernewe.</l>
+                        <l>Glicklig isch 's Lewe,</l>
+                        <l>So lang dr Monet dürt,</l>
+                        <l>Küm isch er fertig,</l>
+                        <l>Wird's eim versürt.</l>
+                        <l>Wenn ich thàt lose</l>
+                        <l>un wott in Alle gà,</l>
+                        <l>Wo Geld mir heische,</l>
+                        <l>Wo wott i's nàh?</l>
+                        <l>Ich ha jo selbst e Sü nur noch,</l>
+                        <l>Un dà ka-n-ich nitt hergàh doch,</l>
+                        <l>Ich ka doch nitt</l>
+                        <l>So üsgeh hit</l>
+                        <l>Mit gar nit in de Hose.</l>
+                        <l>Wenn ich that lose</l>
+                        <l>Un wott in Alle gà,</l>
+                        <l>Wo Geld mir heische,</l>
+                        <l>Wo wott i's na?</l>
+                    </lg>
+                    <head>G'sang</head>
+                    <stage>(Freut euch des Lebens)</stage>
+                    <pb n="100 101"/>
+                </sp>
+            </div>
+            <div type="scene">
+                <head>II. Uftritt.</head>
+                <stage type="characters">D'Gliche, derno Herr Gitzkrage.
+                </stage>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Jà, jà!... hit fangt's güet a... enfin, d'Haüptsach
+                            isch...
+                        </l>
+                        <stage>(er lost)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(frindlich)</stage>
+                    <lg>
+                        <l>Güete Tag, Herr Fisselboge, ich ha mr's eso halwer
+                            ibildet, ass Sie züe mr wànn ku, un do ha-n-i
+                            denkt, ich will Ihne d'Mieih spare... ich ha do
+                            ewe...
+                        </l>
+                        <stage>(er nimmt e Papier üs em Sack)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Sie sin doch gar sa g'fallig, Herr Gitzkrage, setze.
+                            Sie sich e wenig...
+                        </l>
+                        <stage>(er git em e Stüehl)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(embarrasiert, steckt si Papier wieder i)</stage>
+                    <lg>
+                        <l>Fir Ihne Freid z'mache, will i scho eins nàh, Herr
+                            Fisselboge
+                        </l>
+                        <stage>(sc stosse-n-a)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unterbricht ne.)</stage>
+                    <lg>
+                        <l>Wisse Sie, ass Sie ne richer Mann sin, Herr
+                            Gitzkrage, un e g'lehrter Mann, wie-n-ich scho
+                            bemerkt ha?... ich ka nitt begriffe, ass me Sie no
+                            nitt fir Depütierter g'wählt hat...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(stellt si)</stage>
+                    <lg>
+                        <l>He, he... ich ka's o nitt begriffe... se hàn höchst
+                            Unrecht, ass se mich nitt nàmme... ich ha mich halt
+                            o noch nie presentiert... ich wott mich ewe nitt
+                            ufdringe, wisse Sie, Herr Fisselboge... doch wenn
+                            Se wotte das Ding jetz emol in Richtigkeit mache...
+                        </l>
+                        <stage>(er hebt em d'Note ane)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(nimmt se un legt se uf dr Tisch, ohne druf
+                        z'lüege)
+                    </stage>
+                    <lg>
+                        <l>Aha, jà, jà... ich weiss scho... das isch e
+                            Kleinigkeit, Herr Gitzkrage... vier Monet, nitt
+                            wohr?...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(frindlig)</stage>
+                    <lg>
+                        <l>Nur drei Monet, Herr Fisselboge, nur drei Monet...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Aha! nur drei Monet?...</l>
+                        <stage>(trürig)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gritzkrage">
+                    <speaker>Herr Gritzkrage</speaker>
+                    <stage>(spöttisch)</stage>
+                    <lg>
+                        <l>Jà, jà... Sie' hà mr das dr erste Monet scho
+                            verzählt... doch wotte Se jetz nitt?...
+                        </l>
+                        <stage>(er zeigt uf d'Note)</stage>
+                    </lg>
+                    <pb n="102 103"/>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Nitt wohr, ich ha's Ihne scho g'sàit g'ha?.. do sàhn
+                            Se... un denke Se nur, Herr Gitzkrage, scho siter
+                            hat me-n-alles g'rischtet g'ha fir se uf's End
+                            hi... ich ha sogar e Todternarsch composiert fir
+                            se.... warte Se, ich will's Ihne doch spiele, Herr
+                            Gitzkrage, Se werde sàh, was dàs fir e Meisterstück
+                            isch... 's isch in ré mineur...
+                        </l>
+                        <stage>(er süecht si Gige)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(haltet ihn z'ruck un stosst im Ifer an dr Tisch un
+                        verschittet Schnaps)
+                    </stage>
+                    <lg>
+                        <l>Ich zwifel nitt an Ihrem Talent, Herr Fisselboge,
+                            awer ich ha g'wiss jetz nitt der Zit, z'lose... 's
+                            wàr mr liewer...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unterhricht ne)</stage>
+                    <lg>
+                        <l>O wie schad!... jetz hàn Se Ihre Schnaps verschitte,
+                            Herr Gitzkrage
+                        </l>
+                        <stage>(er nimmt d'Note un wischt dr Tisch mit ab)
+                        </stage>
+                        <l>Was mache Se</l>
+                        <stage>(er will ne abhalte)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Was fir e Rechnung?...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(entschlosse)</stage>
+                    <lg>
+                        <l>D'Rechnung vo dàne drei Monet, wo Se mr schuldig
+                            sin, Sie wisse's wohl, un wenn Se jetz wotte-n-emol
+                            regliere, so thàt's mi freie; denn' ich ka mi
+                            sicher nitt ufhalte, Herr Fisselboge...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Eh, so hätte Se's denn glich g'sàit, ass Se-n-eso
+                            pressiert sin
+                        </l>
+                        <stage>(fir sich)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Se hàn doch vor ere halb Stund scho g'sàit, Se hewe
+                            welle züe mir ku... isch's denn nitt g'si, fir...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Fir z'reclamiere! Herr Gitzkrage, fir z'reclamiere!.
+                            Wisse Se, ass me schier nimmig schlofe ka in Ihrem
+                            Bett?... d'Matratze isch efange wie ne Pfanneküeche
+                            un im Schlofzimmer regent's ine... ich müess
+                            d'ganze Nacht 's Parepli uf ha im Bett... diemol
+                            scho bin i driwer ig'schlofe un do isch's mr
+                            natirlig üs dr Hand g'falle un hat im falle 's
+                            Käfig mit awe g'risse, un das isch uf's
+                            Nachttischle plumst un isch verbroche, un dr Vogel,
+                            wo drin gsi isch, dà isch vertrunke in ebbes... un
+                            dr Parepli isch verrisse... das alles müess ich
+                            Ihne züem vorüs abzieh, Herr Gitzkrage, denn Sie
+                            sin dra d'Schuld!.. wenn's nitt ine g'regent
+                            hätt...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Ah so! am End vom Lied, we me recht' lüegt, so bin
+                            ich Ihne noch Geld schuldig... nitt wohr?...
+                        </l>
+                        <stage>(zornig)</stage>
+                    </lg>
+                </sp>
+                <sp who="#hert_fisselboge.">
+                    <speaker>Hert Fisselboge.</speaker>
+                    <lg>
+                        <l>Wenn mi Tante stirbt, Herr Gitzkrage, so bekämme Sie
+                            alles, Kapital un Zins... doch bis dert ane mien Se
+                            halt Geduld ha... que diable, ich ka jo nit derfir,
+                            ass se nitt sterwe will... gehn rede Se selbst mit
+                            ere!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Ich loss mich jetz nimmig mit eso Münz üszahle!..
+                            Ass Sie's wisse, Se känne-n-ufpacke un geh
+                            ne-n-ander Zimmer süeche... ich ha das verlehnt,
+                            denn ich ha wohl denkt, ass es eso wird geh mit
+                            Ihne... 's kunnt e braver, stiller junger Mensch
+                            dri, ne Kunstmoler, wo eim doch dr Kopf nitt eso
+                            versàgt, wie Sie mit Ihrer Gige... er wird jetz bol
+                            ku, drum känne Se dr Platz rüme... awer
+                            Ihre-n-Effecte lehn Se do, die b'halt 'i, bis 'Se
+                            mich zahlt hàn!
+                        </l>
+                        <stage>(er geht zornig züer Thüre-n-üss)</stage>
+                    </lg>
+                    <pb n="104 105"/>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Mi Käfig un mi Parepli! dà Unmensch!... o das will
+                            er noch, er isch nitt scho rich g'nüe!...
+                        </l>
+                        <l>Was isch z'mache?</l>
+                        <l>Soll i lache?</l>
+                        <l>Soll i grine?</l>
+                        <l>G'schàh isch's doch!</l>
+                        <l>Ich will singe</l>
+                        <l>Glaüb, un springe,</l>
+                        <l>'s thüet m'r schine</l>
+                        <l>'s Beste noch!...</l>
+                        <l>Fir was sich quäle-n-uf dr Welt?</l>
+                        <l>'s isch eithüen, wo me hat si Zelt,</l>
+                        <l>'s isch jo nur fir e kurze Zit</l>
+                        <l>Un vo dem Allem blibt doch nit.</l>
+                        <l>Fir was klage</l>
+                        <l>Un verzage?</l>
+                        <l>Ich kumm glicklig</l>
+                        <l>Jo dervo!</l>
+                        <l>Denn 's üsziege,</l>
+                        <l>Ohne z'liege,</l>
+                        <l>Das geht wirklig</l>
+                        <l>Licht eso!</l>
+                        <l>Mi Käfig un mi Parepli,</l>
+                        <l>Die stell ich bim Hüsmeister i,</l>
+                        <l>Un sunscht ha-n-ich nitt z'wandle meh,</l>
+                        <l>Ich ka ganz riehig üse geh.</l>
+                        <l>Awer wo ane geh?... das isch d'Frog!... wenn noch e
+                            vernünftige Temperatur wàr, so kännt ich mi
+                            frische-n-Adresse glich in Eim jetz scho gà
+                        </l>
+                    </lg>
+                    <head>G'sang</head>
+                    <stage>(Petite Laitière)</stage>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(zornig)</stage>
+                    <lg>
+                        <l>Mache Se jetz, ass Se-n-emol furtkämme... un ich
+                            schick Ihne dr Hüssier, ass Sie's nur wisse.
+                        </l>
+                    </lg>
+                    <pb n="106 107"/>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unter dr Thüre)</stage>
+                    <lg>
+                        <l>'s isch unnöthig, Herr Gitzkrage, 's isch unnöthig.
+                            wo nit isch, hat dr Hüssier si Recht verlore...
+                            wenn mi Tante-n-emol stirbt, so...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Gehn Se züem Kückück mit ihrer Tante!...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Nu, so Adie denn, Herr Gitzkrage, Se brüche kei
+                            Angst z'ha... ich denk an Se
+                        </l>
+                        <stage>(er macht d'Türe züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(macht e Füscht gege dr Thüre.)</stage>
+                    <lg>
+                        <l>Endlig, endlig isch er furt, dà Nitnutz!... Ich
+                            müess e wenig ku ufrüme, ass doch e Sach in Ordnung
+                            isch, wenn dr Herr Heiterwiss, dr Moler, kunnt ku
+                            izieh... Ich bi froh, ass ich dà Herr Fisselboge
+                            emol ab ha... awer wenn ich nur scho zahlt wàr...
+                            Gott! was me doch fir G'schichte hat mit dàne
+                            Chambre garnie!... Se wann allewil e schön Zimmer
+                            un e güet Bett un wànn doch dr Pris nitt üsgà
+                            derfir! Z'Nacht wànn Se nitt allei schlofe... me
+                            meint grad, se hewe-n-Angst, wenn's finster isch...
+                            ich müess d'halwe Zit Schildwach steh, fir z'lüege,
+                            eb Alles in Ordnung züegeht... ich lid ewe nit im
+                            Hüs... kei Làrme, kei Kameradschaft, kei
+                            Bekanntschaft... am liebschte isch mr ebber, wo gar
+                            nie d'heim isch.
+                        </l>
+                        <l>Ich ka do ufpasse-n-un wehre genüe</l>
+                        <l>Nur blos!</l>
+                        <l>Denn wenn ich dr Ricke nur kehre-n-als thüe,</l>
+                        <l>Geht's los,</l>
+                        <l>Wenn ich will, ass alles in Ordnung soll geh,</l>
+                        <l>So müess ich schier d'ganze Zit Schildwacht als
+                            steh,
+                        </l>
+                        <l>Bol do un bol duss uf dr Stross. ''</l>
+                        <stage>(bis)</stage>
+                        <l>'s kunnt mir e-n-unrüehiger Mensch mit keim Füess
+                        </l>
+                        <l>In's Hüs,</l>
+                        <l>Thüet einer im g'ringste sich mücke, so müess</l>
+                        <l>Er drüs.</l>
+                        <l>Un wànn se-n-als ku mit dr Cüsine z'Nacht,</l>
+                        <l>Sa isch glich vor beide d'Hüsthüre züeg'macht</l>
+                        <l>Ich lid nit Verdàchtigs im Hüs. ''</l>
+                        <stage>(bis)</stage>
+                        <l>Vo mine Chambregarnie alle z'àmme, wo-n-i g'ha ha,
+                            isch nur eine güeter gsi... dà isch ku 's Zimmer
+                            lehne un derno ha-n-i ne nimmig g'sàh bis dr Erst,
+                            alle Monet hat er si Zins brocht un isch als glich
+                            wieder gange... awer die sin halt rar... Un dà Herr
+                            Fisselboge, wo mich jetz nitt zahlt hat!... was
+                            soll ich mache mit dem Dings?
+                        </l>
+                        <stage>(er làngt 's Käfig un dr Parepli züer
+                            Schlofstuwe-n-üse)
+                        </stage>
+                    </lg>
+                    <head>G'sang</head>
+                    <stage>(Schnapp auf)</stage>
+                </sp>
+            </div>
+            <div type="scene">
+                <head>III. Uftritt.</head>
+                <sp who="#herr_heiterwiss_un_herr_gitzkrage.">
+                    <speaker>Herr Heiterwiss un Herr Gitzkrage.</speaker>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(kunnt ine mit em Chevalet, ne Portefeuille, ne
+                        Molerlade un ere Puppe in Lewensgrösse unter em Arm. Er
+                        hat lange Hoor un e hocher Hüet uf mit breite Stilwe)
+                    </stage>
+                    <lg>
+                        <l>Aha, endlig bin i jetz amol aku... ich ha g'meint,
+                            ich ka's nitt erlewe!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(haltet en a un risst zornig an dr Puppe)</stage>
+                    <lg>
+                        <l>Ich ha's Ihne doch adunge, ass Se mr keine
+                            Bekanntschafte derfe in's Hüs bringe!...
+                        </l>
+                    </lg>
+                    <pb n="108 109"/>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(lacht)</stage>
+                    <lg>
+                        <l>Güet, güet!... ich ha's nitt vergesse... das sin jo
+                            keine Bekanntschafte... 's isch mi Modell...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Was, Modell... 's isch keine kei Modell... e schön
+                            Modell, wo sich losst vom e Moler unter dr Arm
+                            nàh!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Sie verstehn mi letz, Herr Gitzkrage, sàhn Se denn
+                            nitt, ass es mi Puppe-n-isch, wo-n-i brüch fir
+                            z'posiere...
+                        </l>
+                        <stage>(er stellt alles ab, legt si Puppe-n-an Bode,
+                            sitzt druf un nimmt 's Nastüech üse un macht si
+                            Wind)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(schaüt em züe un grifft an dr Puppe-n-umme)</stage>
+                    <lg>
+                        <l>Ich traü dem Ding nur halwer... enfin, mr wànn emol
+                            e paar Tag züelüege... wenn ich 's G'ringste merk,
+                            so mach ich Dr Holla!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(zeigt uf d'Puppe)</stage>
+                    <lg>
+                        <l>Se geht Ihne glaüb nitt recht, Herr Gitzkrage?...
+                        </l>
+                        <l>Das isch e Fraü, wo mir</l>
+                        <l>Gar wenig Geld thüet koste,</l>
+                        <l>Wo Tag un Nacht nitt wicht</l>
+                        <l>Vo ihrem Poste.</l>
+                        <l>Un wo nitt schwàtzt, nitt schimpft</l>
+                        <l>Un mich nitt thüet versàge,</l>
+                        <l>Drum isch mr o gar viel</l>
+                        <l>An ihre g'lege.</l>
+                        <l>Sie blibt mr doch getreü</l>
+                        <l>Un losst mich immer frei,</l>
+                        <l>Lüegt nitt uf mine Schritt',</l>
+                        <l>Denn jalouse isch se nitt.</l>
+                    </lg>
+                    <head>G'sang</head>
+                    <stage>(Maidele ruck)</stage>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <p>Mir thien doch beide g'wiss</p>
+                    <p>E riehig Lewe fiehre,</p>
+                    <p>Mitnander brüche mir</p>
+                    <p>Nitt z'dispetiere.</p>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <p>Die thien doch beide g'wiss</p>
+                    <p>E riehig Lewe fiehre,</p>
+                    <p>Mitnander brüche sie</p>
+                    <p>Nitt z'dispetiere.</p>
+                </sp>
+                <sp who="#herr_gritzkrage">
+                    <speaker>Herr Gritzkrage</speaker>
+                    <stage>(züem Herr Heiterwiss, wo sine Farwe-n-üspackt)
+                    </stage>
+                    <lg>
+                        <l>Jà un mi Portrait, Herr Heiterwiss, wenn mache Se mi
+                            Portrait?... denn das geht mit in d'Lehnung... Sie
+                            hà mr's versproche... Se hàn derfir 's Zimmer
+                            wohlfeiler...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(fir sich)</stage>
+                    <lg>
+                        <l>Mir schint's, ass dr Herr Gitzkrage ne famoser Rüech
+                            isch un ass er si Name gar nitt g'stohle hat
+                        </l>
+                        <stage>(züem Herr Gitzkrage)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Eh, jo... un noch derzüe in Oel... b'sinne Sie sich
+                            denn nimmig, Herr Heiterwiss?...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(fir sich)</stage>
+                    <lg>
+                        <l>Dà wird awer lange Zit biku, bis er's hat... so' ne
+                            Profil!...
+                        </l>
+                        <stage>(züem Herr Gitzkrage)</stage>
+                    </lg>
+                    <pb n="110 111"/>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <lg>
+                        <l>Ich wird doch g'wiss schön, nitt wohr, Herr
+                            Heiterwiss... eso, mit dr Ühre-n-in dr Hand?...
+                        </l>
+                        <stage>(er nimmt d'Ühre-n-üse un zeigt, wie-n-er
+                            posiere will)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Das isch e g'fàhrlige Farb, Herr Gitzkrage...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(geht e Schritt z'ruck)</stage>
+                    <lg>
+                        <l>Worum, isch's Gift?...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Eh, nei... 's isch kei Gift... awer se schiesst
+                            ab!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Sie wànn spàsse, Herr Heiterwiss!... Doch, ich will
+                            Se jetzt schaffe lo, ass Se-n-Ihr Portrait bol
+                            fertig bringe un derno mi's afange känne... zürne
+                            Se nit, Herr Heiterwiss...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Gar nitt, Herr Gitzkrage.</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(geht hinte-n-üse, macht awer d'Thüre glichnoch emol
+                        uf)
+                    </stage>
+                    <lg>
+                        <l>Awer in Oel, Herr Heiterwiss!...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Wie Sie wànn, Herr Gitzkrage.</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(geht wieder üse un macht d'Thüre noch emol uf)
+                    </stage>
+                    <lg>
+                        <l>Un mit di Ühre-n-in dr Hand?...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Güet, güet, Herr Kritzkrage.</l>
+                        <stage>(dr Herr Gitzkrage geht üse)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(macht d'Thüre-n-uf un streckt dr Kopf ine)</stage>
+                    <lg>
+                        <l>Verzeihe Se, Herr Heiterwiss, ich ha Se nur noch
+                            g'schwind welle ebbes froge... kännt ich nitt o mi
+                            Katz uf dr Arm nàh, wenn ich posiere thüe... 's
+                            isch ewe gar e güet Thier, wo-n-ich züe gern ha...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Worum nitt, Herr Gitzkrage, worum nitt...</l>
+                        <stage>(fir sich)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Wie känne Sie froge... das isch jo mi grösster
+                            Wunsch gsi vo jehàr, Herr Heiterwiss!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Eh bien, lose Se... ich ha do-n-emol e Tableau
+                            ag'fange, wo soll dr... dr... Malbrough vorstelle,
+                            wo-n-er siner Fraü dr Hof macht, nur ha-n-ich's nie
+                            fertig brocht, wil i nie kei güeter Sujet g'funde
+                            ha, wo posiert hat fir ihn... Sie hätte jetz grad e
+                            güeter Kopf derzüe, wenn Se mr viellicht wotte
+                            sitze... wisse Se, wer das gsi isch, dr Malbrough?
+                        </l>
+                    </lg>
+                    <pb n="112 113"/>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Malbrough... Malbrough</l>
+                        <stage>(er singt)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>C'est ça... dr Malbrough isch e famoser Krieger
+                            gsi...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(redressiert si)</stage>
+                    <lg>
+                        <l>Ich will scho, Herr Heiterwiss, ich will scho...
+                            awer 's Kleid?... denn er isch wohrschinlig nitt
+                            eso ag'legt gsi?...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Sorge Se nitt fir das, Herr Gitzkrage, 's isch mir
+                            nur um dr Kopf un d'Stellung, 's Kleid will ich
+                            scho ane mole... wenn Se wànn, so fange mr glich a.
+                        </l>
+                        <stage>(er nimmt dr Herr Gitzkrage am Arm un fiehrt en
+                            züer Puppe)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(noch ere Wile un ohne umme z'lüege)</stage>
+                    <lg>
+                        <l>Sie mien sich awer e wenig dummle, Herr
+                            Heiterwiss... me wird mied in der Position...
+                        </l>
+                        <stage>(er wartet e wenig)</stage>
+                        <stage>('s fangt a Nacht z'werde im Zimmer)</stage>
+                    </lg>
+                </sp>
+            </div>
+            <div type="scene">
+                <head>IV. Uftritt.</head>
+                <sp who="#herr_fisselboge,_derno_gretele,_herr_knopfloch_un_herr_gitzkrage.">
+                    <speaker>Herr Fisselboge, derno Gretele, Herr Knopfloch un
+                        Herr Gitzkrage.
+                    </speaker>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(kunnt ine, er isch e wenig benewelt un singt)
+                    </stage>
+                    <head>G'sang</head>
+                    <stage>(dr Kückück uf em Bire-n-Ast)</stage>
+                    <lg>
+                        <l>Ich weiss nitt, wie's mr isch im</l>
+                        <l>Sieseribum un fàderi düderi dài dài dài,</l>
+                        <l>Ich weiss nitt, wie's mr i'sch im Kopf,</l>
+                        <l>Er wackelt mir dà arme</l>
+                        <l>Sieseribum un fàderi düderi dài dài dài,</l>
+                        <l>Er wackelt mir dà arme Tropf...</l>
+                        <l>Ich weiss nitt, isch e Newel oder hà-n-ich e wenig
+                            z'tief in's Glas glüegt... 's isch mr ganz possig
+                            vor de-n-Aüge...
+                        </l>
+                        <stage>(er sieht d'Puppe vorne sitze)</stage>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(macht zornig d'Arm iwernander)</stage>
+                    <lg>
+                        <l>Ah so, Herr Fisselboge!... e-n-Andere in Ihrem
+                            Zimmer!... schön, schön, nur furtg'macht... 's isch
+                            intressant, das Ding...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(kehrt si verwundert um un springt in d'Höche)
+                    </stage>
+                    <lg>
+                        <l>'s Gretele!;</l>
+                    </lg>
+                    <pb n="114 115"/>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <lg>
+                        <l>Ich ha mr's doch allewil eso halwer ibildet, ass Sie
+                            nur fir dr passe le temps mit mr rede... un ass Sie
+                            mich trumpiere... un fir wer trumpiere?
+                        </l>
+                        <stage>(se zeigt uf d'Puppe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(verlege)</stage>
+                    <lg>
+                        <l>Sie isch ung'recht gege mir, Gretele, ich ha jo
+                            glaübt, Sie isch's, wo dert sitzt... un derno...
+                            das isch jo nitt mi Zimmer... ich wohn jo nimmig
+                            do...
+                        </l>
+                        <stage>(fir sich)</stage>
+                    </lg>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <lg>
+                        <l>Oho!... das sin jetz Schnàcketànz, Herr Fisselboge,
+                            Sie brüche nitt länger Comedie spiele... Sie
+                            bringe's nitt ane, un 's nutzt Se doch nit, denn
+                            zwische-n-uns isch's ferig... ich ha Sie bis dohi
+                            allewil im Herr Heiterwiss vorzoge, awer jetz weiss
+                            ich scho, was ich z'thüe ha...
+                        </l>
+                        <stage>(se geht üse un schlat zornig d'Thüre züe)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(macht d'Thüre-n-uf un rieft ere klàglig no)</stage>
+                    <lg>
+                        <l>Gretele!... g'wiss, Sie trumpiert si!...</l>
+                        <stage>(er lost)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(kunnt ine un lüegt ummenander)</stage>
+                    <lg>
+                        <l>Tiens, dr Herr Fisselboge isch schint's no nitt
+                            d'heim, isch er viellicht dert ?
+                        </l>
+                        <stage>(er zeigt uf d'Schlofstuwe un geht geh
+                            aklopfe)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unter em Tisch)</stage>
+                    <lg>
+                        <l>Ich ha ne g'scheide Nase g'ha, ass i mi versteckt
+                            ha.
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <lg>
+                        <l>Wenn er mich nur nitt lang macht z'warte... ich sott
+                            nothwendig mi Geld ha jetz... uf jedenfall gang i
+                            nimmig do üse, bis i's ha... 's mag geh wie's
+                            will...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unter em Tisch)</stage>
+                    <lg>
+                        <l>Kunnsch morn dure!...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch.">
+                    <speaker>Herr Knopfloch.</speaker>
+                    <lg>
+                        <l>Hein!... ich ha grad g'meint, ich hör ebber
+                            rede...
+                        </l>
+                        <stage>(er sieht d'Puppe un kunnt fire mit nit as
+                            Kratzfiess. Fir sich)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(kunnt ine mit eme Liecht. - 's wird heiter uf dr
+                        Scene)
+                    </stage>
+                    <lg>
+                        <l>Ich ha'a Ene doch adunge, ass Se mr keine
+                            Bekanntschafte derfe in's Hüs bringe!... was isch
+                            jetz das wieder fir Eine gsi, wo vorig
+                            üseg'loffe-n-isch?...
+                        </l>
+                        <stage>(er stellt 's Liecht uf dr Tisch un lüegt
+                            ummenander)
+                        </stage>
+                    </lg>
+                    <pb n="116 117"/>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht d'Thüre-n-uf)</stage>
+                    <lg>
+                        <l>'s isch ne nitt!....</l>
+                        <stage>(er macht wieder züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(geht uf d'anders Site züem Chevalet un macht in dr
+                        Puppe-n-e Füscht im duregeh. - Dr Herr Fisselboge
+                        niesst unter em Tisch.)
+                    </stage>
+                    <lg>
+                        <l>Hein!...</l>
+                        <stage>(er kehrt si um. Züer Puppe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht d'Thure ne wenig uf)</stage>
+                    <lg>
+                        <l>Blibt jetz dà Particulier noch lang do... isch's
+                            ebbe o Einer, wo Geld will?...
+                        </l>
+                        <stage>(er macht züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>'s isch sunderbar, me macht doch jetz efange possige
+                            Molereie... me sieht gar nimmig, was es isch vo
+                            noochem... we me ne Tableau hat z'Milhüse, so müess
+                            me schiergar bis uf Durni dervo-n-eweg geh, fir
+                            z'wisse, was es vorstelle soll!
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(unter em Tisch)</stage>
+                    <lg>
+                        <l>Worum nitt gar bis uf's Didemer Bàrgle!</l>
+                        <stage>(er schloft i; bol hört me ne schnarchle)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(verschrocke)</stage>
+                    <lg>
+                        <l>Ah ça... spuckt's denn wirklig in dere Stuwe?...
+                            ha-n-i nitt höre rede?...
+                        </l>
+                        <stage>(er lüegt ummenander)</stage>
+                        <l>Alle Moler, 's isch bekannt,</l>
+                        <l>Hàn e kleiner Sprosse,</l>
+                        <l>'s hat sogar, se sin màngmol</l>
+                        <l>Glaüb e wenig g'schosse!</l>
+                        <l>Alles wànn se d'ganze Zit</l>
+                        <l>Anderscht ha as and're Lit,</l>
+                        <l>'s trage-n-Alle lange Hoor</l>
+                        <l>Un Spitzhiet, famose!</l>
+                        <l>Wenn se-n-ihre Name-n-als</l>
+                        <l>Uf e Tableau schriwe,</l>
+                        <l>Meine se, d'Lit alle mien</l>
+                        <l>Glich dervor steh bliwe,</l>
+                        <l>We me scho nitt wisse ka,</l>
+                        <l>Was me soll bewundre dra;</l>
+                        <l>'s isch efange doch züe arg</l>
+                        <l>Wie se's iwertriwe!</l>
+                        <l>Wenn mir allewàg dà nitt versproche hatt, mi
+                            Portrait z'mache...
+                        </l>
+                        <stage>(dr Herr Fisselboge schnarchelt)</stage>
+                    </lg>
+                    <head>G'sang</head>
+                    <stage>(la bonne aventure)</stage>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(im Traüm mit ere hohle Stimm)</stage>
+                    <lg>
+                        <l>Üseg'stellt... mich...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage">
+                    <speaker>Herr Gitzkrage</speaker>
+                    <stage>(fangt a z'schnattre)</stage>
+                    <lg>
+                        <l>Tiens, ich ha grad g'meint, ich hör dr Herr
+                            Fisselboge rede...
+                        </l>
+                    </lg>
+                    <pb n="118 119"/>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht d'Thüre ne wenig uf)</stage>
+                    <lg>
+                        <l>Ich ha grad g'meint, ich hör ne rede</l>
+                        <stage>(er macht wieder züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>Ich ha gar kei Rüeih meh, siter as ich ne
+                            üseg'stellt ha... 's isch ewe ne Brief ku fir en,
+                            glich wo-n-er furt gsi isch... schwarz bordiert un
+                            « très pressée » druf... am End isch si Tante doch
+                            g'storwe un...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(im Traüm)</stage>
+                    <lg>
+                        <l>Tante!... g'storwe!...</l>
+                        <stage>(lüt)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(im Traüm)</stage>
+                    <lg>
+                        <l>Isch Sie's, Gretele?...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(kunnt züem Schlofzimmer üse)</stage>
+                    <lg>
+                        <l>Endlig isch er ab... er müess schint's kei Geld ha
+                            welle, er isch mr z'g'schwind furt... Ich wich nitt
+                            un wenn dr Herr Fisselboge noch so lang nitt heim
+                            kunnt... 's müess jetz emol e-n-End nàh...
+                        </l>
+                        <l>Still... awer jetz kunnt er...</l>
+                        <stage>(er lost, me hört rede duss)</stage>
+                    </lg>
+                    <p>:::D'Schnider hàn,</p>
+                    <p>::Wenn se wànn,</p>
+                    <p>::So viel Müeth,</p>
+                    <p>::So heiss Blüet</p>
+                    <p>::As nur Ein,</p>
+                    <p>::Wenn's scho Kein</p>
+                    <p>::Zeige thüet.</p>
+                    <p>Ich gang nitt fur t, ich setz mi Kopf,</p>
+                    <p>Verliere will ich nitt ei Knopf.</p>
+                    <p>:::D'schnider hàn,</p>
+                    <p>::Wenn se wànn,</p>
+                    <p>::So viel Müeth,</p>
+                    <p>::So heiss Blüet</p>
+                    <p>::As nur Ein,</p>
+                    <p>::Wenn's scho Kein</p>
+                    <p>::Zeige thüet.</p>
+                    <p>:::Will er nitt</p>
+                    <p>::Zahle hit,</p>
+                    <p>::Wird er sàh,</p>
+                    <p>::Was wird g'schàh!</p>
+                    <p>::'s geht em schlecht,</p>
+                    <p>::Ich ha 's Recht</p>
+                    <p>::Ihn vorz'nàh.</p>
+                    <p>Er haltet nie, was er verspricht,</p>
+                    <p>Ich nimm ne liewer glich vor's G'richt!</p>
+                    <p>::Will er nitt</p>
+                    <p>::Zahle hit,</p>
+                    <p>::Wird er sàh,</p>
+                    <p>::Was wird g'schàh,</p>
+                    <p>::'s geht em schlecht,</p>
+                    <p>::Ich ha 's Recht</p>
+                    <p>::Ihn vorznah!...</p>
+                </sp>
+            </div>
+            <div type="scene">
+                <head>V. Uftritt.</head>
+                <stage type="characters">D'Gliche, Herr Heiterwiss un
+                    Gretele.
+                </stage>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(kunnt ine am Arm vom Herr Heiterwiss, blibt' awer
+                        bi dr Thüre steh)
+                    </stage>
+                    <lg>
+                        <l>Un Sie sage, Sie wohne do siter dà Morge?...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Jo, mi schatz... dà Morge bin i izoge... g'fallt's
+                            Ere nitt do?...
+                        </l>
+                        <stage>(fir sich)</stage>
+                    </lg>
+                    <pb n="120 121"/>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <lg>
+                        <l>Worum wott's mr nitt g'falle?</l>
+                        <stage>(fir sich)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Kam Se nur emol ine, Gretele...</l>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(zeigt uf d'Puppe)</stage>
+                    <lg>
+                        <l>Nitt vor ebb Se mr sage, was das fir e Person isch
+                            dert!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(lacht)</stage>
+                    <lg>
+                        <l>Was! Sie o thüet sich dra ufhalte, Gretele?... die
+                            güete Puppe!... se macht e ganze Revolution um mich
+                            umme...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(kunnt fire un b'schaüt se un fangt domo lüt a
+                        z'lache)
+                    </stage>
+                    <lg>
+                        <l>'s isch e Puppe!... hà, hà, hà!...</l>
+                        <stage>(fir sich)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(im Traüm)</stage>
+                    <lg>
+                        <l>Was Geld!... was Geld!...</l>
+                        <stage>(er schnarchelt)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht d'Thüre ne wenig uf)</stage>
+                    <lg>
+                        <l>Hat sich eigentlig d'ganze Stadt Rendez-vous gà bim
+                            Herr Fisselboge... Dà macht lang!..
+                        </l>
+                        <stage>(er macht züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <lg>
+                        <l>Ich bi ewe jalouse, Herr Heiterwiss... Se
+                            wisse-n-ass mir scho-n-emol ebbes g'ha hàn
+                            mitnander...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwlss.">
+                    <speaker>Herr Heiterwlss.</speaker>
+                    <lg>
+                        <l>Jo, wo Sie mich verlo hàn fir eso ne Müsikant,</l>
+                        <stage>(mit Verachtung)</stage>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Ich Sie verlo, Herr Heiterwiss?... Ich ha jo nur
+                            dergliche tho, fir ass Sie sotte jaloux werde... un
+                            wenn ich mit eme Müsikant dergliche tho ha, so
+                            isch's nur, wil ich halt va jehàr allewil fir
+                            d'Kunst e Vorliebe g'ha ha...
+                        </l>
+                        <l>D'Kunst, die thüet mich halt verfiehre,</l>
+                        <l>Wege dem isch's nur, ''</l>
+                        <stage>(bis)</stage>
+                        <l>Ass mich d'Moler interessiere;</l>
+                        <l>Ihr' Talent isch's halt,</l>
+                        <l>Wo mr g'fallt.</l>
+                    </lg>
+                    <head>G'sang</head>
+                    <stage>(des Morgens in der Frühe)</stage>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <p>Ihr' Talent isch's halt, ''(bis)''</p>
+                    <p>Ihr' Talent isch's, wo mr g'fallt.</p>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <p>Mi Talent isch's halt, ''(bis)''</p>
+                    <p>Mi Talent isch's, wo-n-ihr' g'fallt.</p>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(allei)</stage>
+                    <p>:D'Müsik o halt ich in Ehre,</p>
+                    <p>Ich thüe allewil ''bis''</p>
+                    <p>D'Müsikante gern ahöre,</p>
+                    <p>'s sin halt ihre Ton,</p>
+                    <p>Wo mir gehn...</p>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <p>'s sin halt ihre Ton, ''(bis)''</p>
+                    <p>Ihre Tön sin's, wo mir gehn.</p>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <p>'s sin halt ihre Ton, ''(bis)''</p>
+                    <p>Ihre Tön sin's, wo-n-ihr' gehn.</p>
+                    <pb n="122 123"/>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <lg>
+                        <l>G'wiss... ich ha nie recht g'wisst, was i liewer ha,
+                            eb's d'Molerei isch oder d'Müsik!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Mr wànn hoffe, ass es d'Molerei isch, Gretele, nitt
+                            wohr?...
+                        </l>
+                        <stage>(er süecht se um d'Taille z'nah, doch witscht
+                            sie-n-em üs, er laüft ere no um dr Tisch umme, im
+                            Durespringe wirft se-n-em d'Puppe in d'Arme)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht d'Thüre ne wenig uf)</stage>
+                    <lg>
+                        <l>Do geht's schön züe!... wenn se nur nit do ine
+                            kämme!...
+                        </l>
+                        <stage>(er macht züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(vom Làrme-n-ufg'weckt, krobelt unter em Tisch fire.
+                        's Gretele losst e Schrei üs, dr Moler blibt verstünt
+                        steh)
+                    </stage>
+                    <lg>
+                        <l>Was ich nitt fir e dummer Traüm g'ha ha!</l>
+                        <stage>(er wischt si d'Aüge-u-üs un gàhnt)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht e wenig uf)</stage>
+                    <lg>
+                        <l>Aha!... dr Herr Fisselboge isch heim ku... wenn jetz
+                            nur d'Andere glich furt g'iengte...
+                        </l>
+                        <stage>(er macht züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>In mim Zimmer, wenn's I b'liebt, in mim Zimmer.. was
+                            dr Kückücks hàn Sie eigentlich unter mim Tisch
+                            triwe do?...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(stellt si verwundert)</stage>
+                    <lg>
+                        <l>Was verzahlt jetz dà Herr do?... ich kenn en jo gar
+                            nitt!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(b'sinnt si)</stage>
+                    <lg>
+                        <l>Oh!... 's isch jo kei Traüm!...</l>
+                        <stage>(klàglig züem Gretele)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(unterbricht ne)</stage>
+                    <lg>
+                        <l>Ich glaüb, Sie träume jetz noch, güeter Frind...</l>
+                        <stage>(züem Gretele, wo embarrassiert d'Achsle
+                            lipft)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(zornig)</stage>
+                    <lg>
+                        <l>Was krank... isch's ebbe nitt wohr, ass 's Gretele
+                            do gsi isch bi mr... ich wott mi Gige wette...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(fir sich)</stage>
+                    <lg>
+                        <l>Oh!.. im Gretele si Giger...</l>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(züem Herr Heiterwiss)</stage>
+                    <lg>
+                        <l>Glaüwe Sie's em nitt, Herr Heiterwiss, er sàit's nur
+                            üs Zorn, wil ich nit meh vo-n-em wisse will...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss.">
+                    <speaker>Herr Heiterwiss.</speaker>
+                    <lg>
+                        <l>Scho güet... scho güet... ah so! ich fang a heiter
+                            z'sàh do drin... die junge Lit gàn sich schint's
+                            Rendez-vous in mim Zimmer, wàhrend ass ich nitt do
+                            bi... das geht jetz nitt eso dure...
+                        </l>
+                        <stage>(er geht gege-n-em Herr Fisselboge)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht d'Thüre ne wenig uf)</stage>
+                    <lg>
+                        <l>Bigr!!!... wenn ich nur mi Geld hätt!...</l>
+                        <stage>(er macht züe)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>Ich emol nitt... ich müess d'Lit lehre gige... wenn
+                            Sie jetz finde, ass Sie unnöthig sin druf, so will
+                            ich Sie gar nitt hewe...
+                        </l>
+                    </lg>
+                    <pb n="124 125"/>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(zornig)</stage>
+                    <lg>
+                        <l>Keine Üsrede... 's giltet Ernst... ich forder Sie uf
+                            dr Sawel!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(losst e grosser schrei üs)</stage>
+                    <lg>
+                        <l>Oh!... lànge mr Weh, 's wird mr Essig...</l>
+                        <stage>(se losst sich uf e Stüehl sinke)</stage>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(macht d'Thüre ne wenig uf)</stage>
+                    <lg>
+                        <l>Un mi Geld, wo soll ich derno mi Geld hernàh, wenn
+                            er umkunnt?....
+                        </l>
+                        <stage>(er macht wieder züe)</stage>
+                        <l>Herr Gitzkrage</l>
+                        <stage>(macht àngstlig d'Thüre-n-uf, kunnt awer
+                            herzhàft ine, wo-n-er sieht, wer dert isch. - Dr
+                            Herr Fisselboge kehrt si glich um, ass er en nitt
+                            erkenne soll)
+                        </stage>
+                        <l>Ich möcht jetz nur emol wisse, was das fir e
+                            Höllespektakel isch do owe!... 's isch jo efange
+                            nimmig üsz'halte in dem Hüs
+                        </l>
+                        <stage>(er lüegt Eins um's Anders-n-a. Züem Herr
+                            Heiterwiss)
+                        </stage>
+                    </lg>
+                </sp>
+            </div>
+            <div type="scene">
+                <head>VI. Uftritt.</head>
+                <stage type="characters">D'Gliche, Herr Gitzkrage.</stage>
+                <sp who="#herr_fisselboge">
+                    <speaker>Herr Fisselboge</speaker>
+                    <stage>(trürig)</stage>
+                    <lg>
+                        <l>'s wird mi Tante si, wo mr schribt, ass se
+                            g'storwe-n- isch!..
+                        </l>
+                        <stage>(er macht en uf un liest. - Dr Herr Gitzkrage
+                            schlicht üse, kunnt awer glich wieder ine mit Käfig
+                            un Parepli)
+                        </stage>
+                    </lg>
+                </sp>
+                <sp who="#alle_mitnander.">
+                    <speaker>Alle mitnander.</speaker>
+                    <lg>
+                        <l>Hunderttaüsend Franke!!!...</l>
+                    </lg>
+                </sp>
+                <sp who="#herr_knopfloch">
+                    <speaker>Herr Knopfloch</speaker>
+                    <stage>(kunnt üs dr Schlofstuwe ku z'stürze mit em Meter in
+                        dr Hand)
+                    </stage>
+                    <lg>
+                        <l>Herr Fisselboge, ich ha jetz scho mehr as e Stund uf
+                            Se g'warte!... wie viel neüe Kleider soll ich Ene
+                            amesse?...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(verwundert)</stage>
+                    <lg>
+                        <l>Ah ça... ha-n-i eigentlig e Zimmer g'lehnt fir mich
+                            oder fir Andere?... Was isch jetz das wieder fir
+                            Einer?...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_gitzkrage.">
+                    <speaker>Herr Gitzkrage.</speaker>
+                    <lg>
+                        <l>'s isch mr Leid, Herr Fisselboge, iwer das, was
+                            vorg'falle-n-isch zwische-n-uns dà Morge, verzeihe
+                            Se mr... do hàn Se Ihre Hüshaltung wieder
+                        </l>
+                        <stage>(er hebt em 's Käfig un dr Parepli ane)</stage>
+                    </lg>
+                </sp>
+                <sp who="#gretele">
+                    <speaker>Gretele</speaker>
+                    <stage>(wirft sich im Herr Fisselboge in d'Arme)</stage>
+                    <lg>
+                        <l>Verzeihe Se mr, Herr Fisselboge, awer ich ha g'wiss
+                            doch nur Sie allewil am liebste g'ha!...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(verachtlig)</stage>
+                    <lg>
+                        <l>Bàh! - wenn's eso isch, so zieh-n-ich mi Sawel
+                            z'ruck... 's isch si nitt derwerth...
+                        </l>
+                    </lg>
+                </sp>
+                <sp who="#herr_fisselboge.">
+                    <speaker>Herr Fisselboge.</speaker>
+                    <lg>
+                        <l>'s isch doch sunderbar, was 's Geld fir e Magnet
+                            isch!...
+                        </l>
+                        <l>Ich bi jetz dr glickligste Mensch uf dr Welt,</l>
+                        <l>Alle Lit si mr hold,</l>
+                        <l>Noch gestert isch Mangel gsi bi mr am Geld,</l>
+                        <l>Hit thüe-n-ich schwimme im Gold.</l>
+                        <stage>(Se tanze dr Walzer ferig : der Herr Fisselboge
+                            mit em Gretele, dr Herr Heiterwiss mit dr Puppe un
+                            dr Herr Gitzkrage mit em Herr Knopfloch. - Dr
+                            Vorhang fallt)
+                        </stage>
+                    </lg>
+                    <pb n="126 127"/>
+                    <head>G'sang</head>
+                    <stage>(Lutterbacher)</stage>
+                </sp>
+                <sp who="#gretele.">
+                    <speaker>Gretele.</speaker>
+                    <p>:Scho lang isch mi Herz uf dr Wog immer gsi,</p>
+                    <p>Beide hàn's zoge-n-ums Hoor,</p>
+                    <p>Doch jetz weiss i endlig, wora as i bi:</p>
+                    <p>D'Müsik allei zieh-n-ich vor!...</p>
+                </sp>
+                <sp who="#herr_heiterwiss">
+                    <speaker>Herr Heiterwiss</speaker>
+                    <stage>(nimmt si Puppe)</stage>
+                    <p>:Was frog ich no Liewe, was frog ich no Geld,</p>
+                    <p>Ha-n-ich e Fraü doch umsunscht,</p>
+                    <p>'s sin Keine sa glicklig wie mr uf dr Welt,</p>
+                    <p>D'Liewe fir uns, das 'isch d'Kunst.</p>
+                </sp>
+            </div>
+        </body>
+    </text>
+</TEI>

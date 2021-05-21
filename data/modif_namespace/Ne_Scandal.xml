@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<TEI xmlns:xmlnsxs="http://www.w3.org/2001/XMLSchema"
-     xmlns:xmlns="http://www.tei-c.org/ns/1.0">
+<TEI xmlns:xs="http://www.w3.org/2001/XMLSchema"
+     xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
             <titleStmt>
@@ -39,19 +39,19 @@
     <profileDesc>
         <particDesc>
             <listPerson>
-                <person xmlid="hans" sex="M">
+                <person xml:id="hans" sex="M">
                     <persName>HANS</persName>
                 </person>
-                <person xmlid="marti" sex="F">
+                <person xml:id="marti" sex="F">
                     <persName>MARTI</persName>
                 </person>
-                <person xmlid="seppi" sex="M">
+                <person xml:id="seppi" sex="M">
                     <persName>SEPPI</persName>
                 </person>
-                <person xmlid="bawele" sex="F">
+                <person xml:id="bawele" sex="F">
                     <persName>BAWELE</persName>
                 </person>
-                <person xmlid="dr_regisseur" sex="M">
+                <person xml:id="dr_regisseur" sex="M">
                     <persName>Dr Regisseur</persName>
                 </person>
             </listPerson>

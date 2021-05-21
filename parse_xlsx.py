@@ -30,5 +30,6 @@ if __name__ == "__main__":
             lst_perso.append((row_perso[1].persName, row_perso[1].roleDesc,
                               row_perso[1].sex))
 
-        tei = Tei(title_main=titleMain, lst_perso=lst_perso)
-        tei.create_tree("data/final/" + titleMain.replace(" ", "_") + ".xml")
+        if Id == 135:
+            tei = Tei(title_main=titleMain, lst_perso=lst_perso)
+            tei.create_tree("data/final/" + titleMain.replace(" ", "_") + ".xml")
