@@ -1,5 +1,0 @@
-- Assez vite j'ai commencé à transcrire en prévoyant d'analyser les professions plutôt que pour générer les entêtes TEI et les personList/castList en TEI. C'est pourquoi plusieurs colonnes qui seraient pertinentes pour le teiHeader/front mais pas pour l'analyse des professions deviennent vite vides:
-    - cl: pour indiquer si le personnage fait partie de la castList ou exclusivement de la personList
-    - grp: personGrp vs. person dans personList
-    - cgrp: castGrp vs castItem dans la castList
-    - personId: évidemment seulement utile pour la génération du fichier TEI quand il faut, entre autres, normaliser les speaker pour faire abstraction de leurs différentes dénominations

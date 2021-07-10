@@ -31,8 +31,9 @@ re_line_w_part_and_stage = r"([:]{1,3})([^\(<:=\[{\)]+)(\([^\)]+\))?"
 # G'sang match
 re_song = re.compile(r"::<small>'''G'sang\.?'''\s*"
                      r"(?P<stage>\([^)]+\))?\.*</small>")
-# Poem related, variable true or false to know if we add <l> or <p>
-# If we match a <poem> line, we need to open <lg> too, and close it when we match </poem>
+# Poem related, variable true or false to know if we add <l> or <p> If we
+# match a <poem> line, we need to open <lg> too, and close it when we match
+# </poem>
 re_poem = r'<(?P<close_tag>/)?poem>'
 
 # Table regex
